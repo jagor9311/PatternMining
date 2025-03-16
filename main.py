@@ -224,8 +224,8 @@ def get_not_appear_pattern(patternlist1, patternlist2):
 #hour = pred_window
 #obser_h = obs_window
 # g:last interval length; g_int: inter state interval length; 
-ALL_shock_txt_name = 'shock_pattern_list_ALL.txt'
-    ALL_nonshock_txt_name = 'nonshock_pattern_list_ALL.txt'
+#ALL_shock_txt_name = 'shock_pattern_list_ALL.txt'
+#ALL_nonshock_txt_name = 'nonshock_pattern_list_ALL.txt'
 def noncontrast_HMM_ALLDATA(MSS_developed, MSS_nonshock, hour, obser_h, g, g_int, sup_developed, sup_nonshock,featureValues):  
     print("size of shock MSS:", len(MSS_developed))
     print("size of nonshock MSS:", len(MSS_nonshock))

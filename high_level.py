@@ -9,7 +9,7 @@ import math
 import os # Package to change your working directory
 # Change Directory
 #os.chdir('C:/Users/agorj/Box/Agor Research/NIH Long Covid Computational Challenge/Contrasted Pattern Mining New')
-os.chdir('C:/Users/Joe/Box/Agor Research/NIH Long Covid Computational Challenge/Contrasted Pattern Mining New')
+os.chdir(r'C:\Users\Joe\PycharmProjects\PatternMining')
 os.getcwd()
 
 import TemporalAbstraction
@@ -37,10 +37,10 @@ if True:
     device_exposure = pd.read_excel('C:/Users/Joe/Box/Agor Research/NIH Long Covid Computational Challenge/Contrasted Pattern Mining New/Sample_Pattern_Mining_Data.xlsx',sheet_name="device_exposure")
     long_COVID_Silver_Standard = pd.read_excel('C:/Users/Joe/Box/Agor Research/NIH Long Covid Computational Challenge/Contrasted Pattern Mining New/Sample_Pattern_Mining_Data.xlsx',sheet_name="long_COVID_Silver_Standard")
     '''
-    condition_occurrence = pd.read_excel('C:/Users/agorj/Box/Agor Research/NIH Long Covid Computational Challenge/Contrasted Pattern Mining New/Sample_Pattern_Mining_Data.xlsx',sheet_name="condition_occurrence")
-    drug_exposure = pd.read_excel('C:/Users/agorj/Box/Agor Research/NIH Long Covid Computational Challenge/Contrasted Pattern Mining New/Sample_Pattern_Mining_Data.xlsx',sheet_name="drug_exposure")
-    device_exposure = pd.read_excel('C:/Users/agorj/Box/Agor Research/NIH Long Covid Computational Challenge/Contrasted Pattern Mining New/Sample_Pattern_Mining_Data.xlsx',sheet_name="device_exposure")
-    long_COVID_Silver_Standard = pd.read_excel('C:/Users/agorj/Box/Agor Research/NIH Long Covid Computational Challenge/Contrasted Pattern Mining New/Sample_Pattern_Mining_Data.xlsx',sheet_name="long_COVID_Silver_Standard")
+    condition_occurrence = pd.read_excel(r'C:\Users\Joe\PycharmProjects\PatternMining\Sample_Pattern_Mining_Data.xlsx',sheet_name="condition_occurrence")
+    drug_exposure = pd.read_excel(r'C:\Users\Joe\PycharmProjects\PatternMining\Sample_Pattern_Mining_Data.xlsx',sheet_name="drug_exposure")
+    device_exposure = pd.read_excel(r'C:\Users\Joe\PycharmProjects\PatternMining\Sample_Pattern_Mining_Data.xlsx',sheet_name="device_exposure")
+    long_COVID_Silver_Standard = pd.read_excel(r'C:\Users\Joe\PycharmProjects\PatternMining\Sample_Pattern_Mining_Data.xlsx',sheet_name="long_COVID_Silver_Standard")
     
    
 ########################
