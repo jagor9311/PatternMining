@@ -67,7 +67,6 @@ n = len(person_ids)
 # Calculate the days from first observation as for each individual and store in temporary list
 temp = []
 for i in person_ids:
-    print()
     df3 = df2[df2['person_id']==i]
     df3 = df3.reset_index()
     temp1 = [(df3.loc[x,'date']-df3.loc[0,'date']).days for x in range(df3.shape[0])]
@@ -82,12 +81,14 @@ df2 = df2.drop('index',axis=1) # Remove a created index column
 dfLongCovid = pd.DataFrame()
 dfNoLongCovid = pd.DataFrame()
 for i in person_ids:
-    if math.isnan(long_COVID_Silver_Standard[long_COVID_Silver_Standard['person_id']==i]['time_to_pasc']):
+    val = long_COVID_Silver_Standard.loc[long_COVID_Silver_Standard['person_id'] == i, 'time_to_pasc']
+    #if math.isnan(long_COVID_Silver_Standard[long_COVID_Silver_Standard['person_id'] == i]['time_to_pasc']):
+    if math.isnan(val.iloc[0]):
         df3 = df2[df2['person_id']==i]
         df3 = df3.reset_index()
         temp = [df3.loc[df3.shape[0]-1,'days_from_first_event']]*df3.shape[0]
         df3['event_time'] = temp
-        dfNoLongCovid = dfNoLongCovid.append(df3)
+        dfNoLongCovid = pd.concat([dfNoLongCovid, df3], ignore_index=True)
     else:
         df3 = df2[df2['person_id']==i]
         df3 = df3.reset_index()
@@ -97,7 +98,7 @@ for i in person_ids:
         temp = temp_lc[0] - df3.loc[0,'date']
         temp = [temp.days]*df3.shape[0]
         df3['event_time'] = temp
-        dfLongCovid = dfLongCovid.append(df3)
+        dfLongCovid = pd.concat([dfLongCovid, df3], ignore_index=True)
       
 dfLongCovid = dfLongCovid.drop('index',axis=1) # Remove a created index column
 dfNoLongCovid = dfNoLongCovid.drop('index',axis=1) # Remove a created index column 
@@ -111,7 +112,7 @@ for i in range(len(Features)):
     temp1 = [x for x in temp1 if str(x) != 'nan']
     temp2 = temp+temp1
     temp3 = [*set(temp2)]
-    featureValues.append(temp3)       
+    featureValues.append(temp3)
 
 # Write out updated population (block group) information
 dfLongCovid.to_csv('merged_data_LongCovid.csv',index = False)  

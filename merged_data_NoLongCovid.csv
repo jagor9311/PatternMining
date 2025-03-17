@@ -1,0 +1,1362 @@
+person_id,days_from_first_event,condition_concept_name,date,device_concept_name,drug_concept_name,event_time
+3,0,Gastroesophageal reflux disease without esophagitis,2019-03-08,,,771
+3,0,Impaired intestinal carbohydrate absorption,2019-03-08,,,771
+3,0,Type 2 diabetes mellitus without complication,2019-03-08,,,771
+3,0,Essential hypertension,2019-03-08,,,771
+3,32,Recurrent acute sinusitis,2019-04-09,,,771
+3,32,Chronic maxillary sinusitis,2019-04-09,,,771
+3,49,Gastroesophageal reflux disease without esophagitis,2019-04-26,,,771
+3,49,Chronic sinusitis,2019-04-26,,,771
+3,63,Deviated nasal septum,2019-05-10,,esomeprazole 40 MG Delayed Release Oral Capsule,771
+3,63,Chronic sinusitis,2019-05-10,,esomeprazole 40 MG Delayed Release Oral Capsule,771
+3,63,Gastroesophageal reflux disease without esophagitis,2019-05-10,,esomeprazole 40 MG Delayed Release Oral Capsule,771
+3,63,Chronic sphenoidal sinusitis,2019-05-10,,esomeprazole 40 MG Delayed Release Oral Capsule,771
+3,65,,2019-05-12,,hydrochlorothiazide 25 MG / losartan potassium 100 MG Oral Tablet,771
+3,96,,2019-06-12,,hydrochlorothiazide 25 MG / losartan potassium 100 MG Oral Tablet,771
+3,96,,2019-06-12,,esomeprazole 40 MG Delayed Release Oral Capsule,771
+3,130,,2019-07-16,,esomeprazole 40 MG Delayed Release Oral Capsule,771
+3,187,Essential hypertension,2019-09-11,,,771
+3,189,Impaired intestinal carbohydrate absorption,2019-09-13,,,771
+3,189,Essential hypertension,2019-09-13,,,771
+3,189,Morbid obesity,2019-09-13,,,771
+3,189,Obstructive sleep apnea syndrome,2019-09-13,,,771
+3,220,Finding of vision of eye,2019-10-14,"Oversize lens, per lens",,771
+3,220,Finding of vision of eye,2019-10-14,Deluxe frame,,771
+3,220,Finding of vision of eye,2019-10-14,"Scratch resistant coating, per lens",,771
+3,220,Finding of vision of eye,2019-10-14,"Progressive lens, per lens",,771
+3,220,Finding of vision of eye,2019-10-14,"Lens, polycarbonate or equal, any index, per lens",,771
+3,228,Acute maxillary sinusitis,2019-10-22,,cefdinir 300 MG Oral Capsule,771
+3,228,Acute bronchitis,2019-10-22,,cefdinir 300 MG Oral Capsule,771
+3,290,Bronchitis,2019-12-23,,benzonatate 100 MG Oral Capsule,771
+3,290,Bronchitis,2019-12-23,,cephalexin 500 MG Oral Capsule,771
+3,290,Bronchitis,2019-12-23,,Methylprednisolone 125 MG Injection [Solu-Medrone],771
+3,290,Essential hypertension,2019-12-23,,benzonatate 100 MG Oral Capsule,771
+3,290,Essential hypertension,2019-12-23,,cephalexin 500 MG Oral Capsule,771
+3,290,Essential hypertension,2019-12-23,,Methylprednisolone 125 MG Injection [Solu-Medrone],771
+3,302,Bronchitis,2020-01-04,,dexamethasone 1 MG,771
+3,302,Bronchitis,2020-01-04,,methylprednisolone Injection,771
+3,315,,2020-01-17,,esomeprazole 40 MG Delayed Release Oral Capsule,771
+3,363,Acute sinusitis,2020-03-05,,amoxicillin 875 MG / clavulanate 125 MG Oral Tablet,771
+3,371,Obstructive sleep apnea syndrome,2020-03-13,,hydrochlorothiazide 25 MG / losartan potassium 100 MG Oral Tablet,771
+3,371,Gastroesophageal reflux disease without esophagitis,2020-03-13,,hydrochlorothiazide 25 MG / losartan potassium 100 MG Oral Tablet,771
+3,371,Essential hypertension,2020-03-13,,hydrochlorothiazide 25 MG / losartan potassium 100 MG Oral Tablet,771
+3,371,Impaired intestinal carbohydrate absorption,2020-03-13,,hydrochlorothiazide 25 MG / losartan potassium 100 MG Oral Tablet,771
+3,421,Acute upper respiratory infection,2020-05-02,,,771
+3,433,,2020-05-14,,amoxicillin 875 MG / clavulanate 125 MG Oral Tablet,771
+3,450,Chronic maxillary sinusitis,2020-05-31,,,771
+3,450,Mild intermittent asthma,2020-05-31,,,771
+3,450,Gastroesophageal reflux disease without esophagitis,2020-05-31,,,771
+3,450,Dyspnea,2020-05-31,,,771
+3,520,,2020-08-09,,furosemide 40 MG Oral Tablet,771
+3,520,,2020-08-09,,hydrochlorothiazide 25 MG / losartan potassium 100 MG Oral Tablet,771
+3,521,,2020-08-10,,esomeprazole 40 MG Delayed Release Oral Capsule,771
+3,553,Hyperglycemia,2020-09-11,,furosemide 40 MG Oral Tablet,771
+3,553,Hyperglycemia,2020-09-11,,NDA021457 200 ACTUAT albuterol 0.09 MG/ACTUAT Metered Dose Inhaler,771
+3,553,Hyperglycemia,2020-09-11,,esomeprazole 40 MG Delayed Release Oral Capsule,771
+3,553,Mild intermittent asthma,2020-09-11,,furosemide 40 MG Oral Tablet,771
+3,553,Mild intermittent asthma,2020-09-11,,NDA021457 200 ACTUAT albuterol 0.09 MG/ACTUAT Metered Dose Inhaler,771
+3,553,Mild intermittent asthma,2020-09-11,,esomeprazole 40 MG Delayed Release Oral Capsule,771
+3,553,Essential hypertension,2020-09-11,,furosemide 40 MG Oral Tablet,771
+3,553,Essential hypertension,2020-09-11,,NDA021457 200 ACTUAT albuterol 0.09 MG/ACTUAT Metered Dose Inhaler,771
+3,553,Essential hypertension,2020-09-11,,esomeprazole 40 MG Delayed Release Oral Capsule,771
+3,589,Hemorrhoids,2020-10-17,,,771
+3,610,Morbid obesity,2020-11-07,,,771
+3,637,Mild intermittent asthma,2020-12-04,,methylprednisolone Injection,771
+3,637,Mild intermittent asthma,2020-12-04,,dexamethasone 1 MG,771
+3,637,Chronic sinusitis,2020-12-04,,methylprednisolone Injection,771
+3,637,Chronic sinusitis,2020-12-04,,dexamethasone 1 MG,771
+3,637,Allergic disposition,2020-12-04,,methylprednisolone Injection,771
+3,637,Allergic disposition,2020-12-04,,dexamethasone 1 MG,771
+3,746,Cough,2021-03-23,,,771
+3,748,COVID-19,2021-03-25,,,771
+3,771,Contusion of abdominal wall,2021-04-17,,,771
+4,0,,2017-03-25,,0.5 ML Streptococcus pneumoniae serotype 1 capsular antigen diphtheria CRM197 protein conjugate vaccine 0.0044 MG/ML / Streptococcus pneumoniae serotype 14 capsular antigen diphtheria CRM197 protein conjugate vaccine 0.0044 MG/ML / Streptococcus pneumo...,981
+4,0,,2017-03-25,,0.5 ML influenza A virus A/Hong Kong/4801/2014 (H3N2) antigen 0.12 MG/ML / influenza A virus A/Michigan/45/2015 (H1N1) antigen 0.12 MG/ML / influenza B virus B/Brisbane/60/2008 antigen 0.12 MG/ML Prefilled Syringe [Fluzone 2017-2018],981
+4,125,Atherosclerosis of coronary artery without angina pectoris,2017-07-28,,"pneumococcal vaccine, unspecified formulation",981
+4,125,Atherosclerosis of coronary artery without angina pectoris,2017-07-28,,24 HR isosorbide mononitrate 30 MG Extended Release Oral Tablet [Imdur],981
+4,125,Atherosclerosis of coronary artery without angina pectoris,2017-07-28,,0.5 ML Streptococcus pneumoniae type 1 capsular polysaccharide antigen 0.05 MG/ML / Streptococcus pneumoniae type 10A capsular polysaccharide antigen 0.05 MG/ML / Streptococcus pneumoniae type 11A capsular polysaccharide antigen 0.05 MG/ML / Streptococ...,981
+4,125,Atherosclerosis of coronary artery without angina pectoris,2017-07-28,,lisinopril 5 MG Oral Tablet [Prinivil],981
+4,125,Essential hypertension,2017-07-28,,"pneumococcal vaccine, unspecified formulation",981
+4,125,Essential hypertension,2017-07-28,,24 HR isosorbide mononitrate 30 MG Extended Release Oral Tablet [Imdur],981
+4,125,Essential hypertension,2017-07-28,,0.5 ML Streptococcus pneumoniae type 1 capsular polysaccharide antigen 0.05 MG/ML / Streptococcus pneumoniae type 10A capsular polysaccharide antigen 0.05 MG/ML / Streptococcus pneumoniae type 11A capsular polysaccharide antigen 0.05 MG/ML / Streptococ...,981
+4,125,Essential hypertension,2017-07-28,,lisinopril 5 MG Oral Tablet [Prinivil],981
+4,125,Type 2 diabetes mellitus without complication,2017-07-28,,"pneumococcal vaccine, unspecified formulation",981
+4,125,Type 2 diabetes mellitus without complication,2017-07-28,,24 HR isosorbide mononitrate 30 MG Extended Release Oral Tablet [Imdur],981
+4,125,Type 2 diabetes mellitus without complication,2017-07-28,,0.5 ML Streptococcus pneumoniae type 1 capsular polysaccharide antigen 0.05 MG/ML / Streptococcus pneumoniae type 10A capsular polysaccharide antigen 0.05 MG/ML / Streptococcus pneumoniae type 11A capsular polysaccharide antigen 0.05 MG/ML / Streptococ...,981
+4,125,Type 2 diabetes mellitus without complication,2017-07-28,,lisinopril 5 MG Oral Tablet [Prinivil],981
+4,125,Angina pectoris,2017-07-28,,"pneumococcal vaccine, unspecified formulation",981
+4,125,Angina pectoris,2017-07-28,,24 HR isosorbide mononitrate 30 MG Extended Release Oral Tablet [Imdur],981
+4,125,Angina pectoris,2017-07-28,,0.5 ML Streptococcus pneumoniae type 1 capsular polysaccharide antigen 0.05 MG/ML / Streptococcus pneumoniae type 10A capsular polysaccharide antigen 0.05 MG/ML / Streptococcus pneumoniae type 11A capsular polysaccharide antigen 0.05 MG/ML / Streptococ...,981
+4,125,Angina pectoris,2017-07-28,,lisinopril 5 MG Oral Tablet [Prinivil],981
+4,125,Chest pain,2017-07-28,,"pneumococcal vaccine, unspecified formulation",981
+4,125,Chest pain,2017-07-28,,24 HR isosorbide mononitrate 30 MG Extended Release Oral Tablet [Imdur],981
+4,125,Chest pain,2017-07-28,,0.5 ML Streptococcus pneumoniae type 1 capsular polysaccharide antigen 0.05 MG/ML / Streptococcus pneumoniae type 10A capsular polysaccharide antigen 0.05 MG/ML / Streptococcus pneumoniae type 11A capsular polysaccharide antigen 0.05 MG/ML / Streptococ...,981
+4,125,Chest pain,2017-07-28,,lisinopril 5 MG Oral Tablet [Prinivil],981
+4,126,Stable angina,2017-07-29,,,981
+4,133,Angina pectoris,2017-08-05,,,981
+4,138,,2017-08-10,"Technetium tc-99m tetrofosmin, diagnostic, per study dose",,981
+4,147,,2017-08-19,,metoprolol tartrate 25 MG Oral Tablet,981
+4,147,,2017-08-19,,atorvastatin 80 MG Oral Tablet [Lipitor],981
+4,147,,2017-08-19,,lisinopril 5 MG Oral Tablet [Prinivil],981
+4,197,Pain of knee region,2017-10-08,,24 HR isosorbide mononitrate 30 MG Extended Release Oral Tablet [Imdur],981
+4,197,Pain of right knee joint,2017-10-08,,24 HR isosorbide mononitrate 30 MG Extended Release Oral Tablet [Imdur],981
+4,197,Chronic pain,2017-10-08,,24 HR isosorbide mononitrate 30 MG Extended Release Oral Tablet [Imdur],981
+4,265,Hyperlipidemia,2017-12-15,No matching concept,,981
+4,266,Hyperlipidemia,2017-12-16,,,981
+4,306,Pain of right knee joint,2018-01-25,,carvedilol 6.25 MG Oral Tablet [Eucardic],981
+4,306,Pain of right knee joint,2018-01-25,,nitroglycerin 0.4 MG Sublingual Tablet [Nitrotab],981
+4,306,Pain of right knee joint,2018-01-25,,atorvastatin 80 MG Oral Tablet [Lipitor],981
+4,306,Chest pain,2018-01-25,,carvedilol 6.25 MG Oral Tablet [Eucardic],981
+4,306,Chest pain,2018-01-25,,nitroglycerin 0.4 MG Sublingual Tablet [Nitrotab],981
+4,306,Chest pain,2018-01-25,,atorvastatin 80 MG Oral Tablet [Lipitor],981
+4,306,Atherosclerosis of coronary artery without angina pectoris,2018-01-25,,carvedilol 6.25 MG Oral Tablet [Eucardic],981
+4,306,Atherosclerosis of coronary artery without angina pectoris,2018-01-25,,nitroglycerin 0.4 MG Sublingual Tablet [Nitrotab],981
+4,306,Atherosclerosis of coronary artery without angina pectoris,2018-01-25,,atorvastatin 80 MG Oral Tablet [Lipitor],981
+4,306,Chronic pain,2018-01-25,,carvedilol 6.25 MG Oral Tablet [Eucardic],981
+4,306,Chronic pain,2018-01-25,,nitroglycerin 0.4 MG Sublingual Tablet [Nitrotab],981
+4,306,Chronic pain,2018-01-25,,atorvastatin 80 MG Oral Tablet [Lipitor],981
+4,306,Type 2 diabetes mellitus without complication,2018-01-25,,carvedilol 6.25 MG Oral Tablet [Eucardic],981
+4,306,Type 2 diabetes mellitus without complication,2018-01-25,,nitroglycerin 0.4 MG Sublingual Tablet [Nitrotab],981
+4,306,Type 2 diabetes mellitus without complication,2018-01-25,,atorvastatin 80 MG Oral Tablet [Lipitor],981
+4,306,Essential hypertension,2018-01-25,,carvedilol 6.25 MG Oral Tablet [Eucardic],981
+4,306,Essential hypertension,2018-01-25,,nitroglycerin 0.4 MG Sublingual Tablet [Nitrotab],981
+4,306,Essential hypertension,2018-01-25,,atorvastatin 80 MG Oral Tablet [Lipitor],981
+4,365,Type 2 diabetes mellitus without complication,2018-03-25,,metformin hydrochloride 500 MG Oral Tablet [Glucophage],981
+4,378,Type 2 diabetes mellitus without complication,2018-04-07,,,981
+4,383,Type 2 diabetes mellitus without complication,2018-04-12,,carvedilol 6.25 MG Oral Tablet [Eucardic],981
+4,426,,2018-05-25,,lisinopril 10 MG Oral Tablet [Prinivil],981
+4,533,Nontraumatic rotator cuff tear,2018-09-09,,metformin hydrochloride 1000 MG Oral Tablet [Glucophage],981
+4,533,Type 2 diabetes mellitus without complication,2018-09-09,,metformin hydrochloride 1000 MG Oral Tablet [Glucophage],981
+4,533,Acute non-ST segment elevation myocardial infarction,2018-09-09,,metformin hydrochloride 1000 MG Oral Tablet [Glucophage],981
+4,533,Atherosclerosis of coronary artery without angina pectoris,2018-09-09,,metformin hydrochloride 1000 MG Oral Tablet [Glucophage],981
+4,533,Essential hypertension,2018-09-09,,metformin hydrochloride 1000 MG Oral Tablet [Glucophage],981
+4,533,Angina pectoris,2018-09-09,,metformin hydrochloride 1000 MG Oral Tablet [Glucophage],981
+4,557,,2018-10-03,,24 HR isosorbide mononitrate 30 MG Extended Release Oral Tablet [Imdur],981
+4,650,Type 2 diabetes mellitus without complication,2019-01-04,,,981
+4,678,,2019-02-01,,atorvastatin 40 MG Oral Tablet [Lipitor],981
+4,719,Essential hypertension,2019-03-14,No matching concept,metformin hydrochloride 1000 MG Oral Tablet [Glucophage],981
+4,719,Atherosclerosis of coronary artery without angina pectoris,2019-03-14,No matching concept,metformin hydrochloride 1000 MG Oral Tablet [Glucophage],981
+4,719,Type 2 diabetes mellitus without complication,2019-03-14,No matching concept,metformin hydrochloride 1000 MG Oral Tablet [Glucophage],981
+4,721,,2019-03-16,,metformin hydrochloride 1000 MG Oral Tablet [Glucophage],981
+4,769,,2019-05-03,,carvedilol 6.25 MG Oral Tablet [Eucardic],981
+4,825,,2019-06-28,,lisinopril 10 MG Oral Tablet [Prinivil],981
+4,893,,2019-09-04,,lisinopril 10 MG Oral Tablet [Prinivil],981
+4,916,,2019-09-27,,24 HR isosorbide mononitrate 30 MG Extended Release Oral Tablet [Imdur],981
+4,963,Headache,2019-11-13,,,981
+4,963,Fatigue,2019-11-13,,,981
+4,963,Cough,2019-11-13,,,981
+4,963,Fever,2019-11-13,,,981
+4,963,Loss of appetite,2019-11-13,,,981
+4,963,Dyspnea,2019-11-13,,,981
+4,966,COVID-19,2019-11-16,,,981
+4,980,Chest pain,2019-11-30,No matching concept,nitroglycerin 0.4 MG Sublingual Tablet [Nitrotab],981
+4,981,Abscess of skin and/or subcutaneous tissue,2019-12-01,,,981
+4,981,Contour of existing restoration of tooth biologically incompatible with oral health,2019-12-01,,,981
+17,0,Elbow joint pain,2018-10-02,,,733
+17,8,Pain of breast,2018-10-10,,,733
+17,8,Allergic rhinitis,2018-10-10,,,733
+17,11,Neoplasm of uncertain behavior of skin,2018-10-13,,,733
+17,11,Benign neoplasm of skin of face,2018-10-13,,,733
+17,22,Pain of breast,2018-10-24,,,733
+17,25,Pain of breast,2018-10-27,,,733
+17,26,Elbow joint pain,2018-10-28,,,733
+17,35,,2018-11-06,,citalopram 20 MG Oral Tablet,733
+17,46,Pain of breast,2018-11-17,,,733
+17,54,Elbow joint pain,2018-11-25,,,733
+17,57,,2018-11-28,,"Influenza, injectable, quadrivalent, preservative free",733
+17,60,Myopia,2018-12-01,,,733
+17,60,Regular astigmatism,2018-12-01,,,733
+17,60,Presbyopia,2018-12-01,,,733
+17,60,Benign neoplasm of choroid,2018-12-01,,,733
+17,67,Anxiety disorder,2018-12-08,,albuterol 0.09 MG/ACTUAT Metered Dose Inhaler,733
+17,67,Anxiety disorder,2018-12-08,,NDA020983 200 ACTUAT albuterol 0.09 MG/ACTUAT Metered Dose Inhaler,733
+17,67,Anxiety disorder,2018-12-08,,citalopram 20 MG Oral Tablet,733
+17,67,Anxiety disorder,2018-12-08,,200 ACTUAT albuterol 0.09 MG/ACTUAT Metered Dose Inhaler,733
+17,67,Anxiety disorder,2018-12-08,,NDA020503 200 ACTUAT albuterol 0.09 MG/ACTUAT Metered Dose Inhaler,733
+17,67,Anxiety disorder,2018-12-08,,NDA020983 60 ACTUAT albuterol 0.09 MG/ACTUAT Metered Dose Inhaler,733
+17,67,Anxiety disorder,2018-12-08,,NDA021457 200 ACTUAT albuterol 0.09 MG/ACTUAT Metered Dose Inhaler,733
+17,67,Allergic rhinitis,2018-12-08,,albuterol 0.09 MG/ACTUAT Metered Dose Inhaler,733
+17,67,Allergic rhinitis,2018-12-08,,NDA020983 200 ACTUAT albuterol 0.09 MG/ACTUAT Metered Dose Inhaler,733
+17,67,Allergic rhinitis,2018-12-08,,citalopram 20 MG Oral Tablet,733
+17,67,Allergic rhinitis,2018-12-08,,200 ACTUAT albuterol 0.09 MG/ACTUAT Metered Dose Inhaler,733
+17,67,Allergic rhinitis,2018-12-08,,NDA020503 200 ACTUAT albuterol 0.09 MG/ACTUAT Metered Dose Inhaler,733
+17,67,Allergic rhinitis,2018-12-08,,NDA020983 60 ACTUAT albuterol 0.09 MG/ACTUAT Metered Dose Inhaler,733
+17,67,Allergic rhinitis,2018-12-08,,NDA021457 200 ACTUAT albuterol 0.09 MG/ACTUAT Metered Dose Inhaler,733
+17,67,Mild intermittent asthma,2018-12-08,,albuterol 0.09 MG/ACTUAT Metered Dose Inhaler,733
+17,67,Mild intermittent asthma,2018-12-08,,NDA020983 200 ACTUAT albuterol 0.09 MG/ACTUAT Metered Dose Inhaler,733
+17,67,Mild intermittent asthma,2018-12-08,,citalopram 20 MG Oral Tablet,733
+17,67,Mild intermittent asthma,2018-12-08,,200 ACTUAT albuterol 0.09 MG/ACTUAT Metered Dose Inhaler,733
+17,67,Mild intermittent asthma,2018-12-08,,NDA020503 200 ACTUAT albuterol 0.09 MG/ACTUAT Metered Dose Inhaler,733
+17,67,Mild intermittent asthma,2018-12-08,,NDA020983 60 ACTUAT albuterol 0.09 MG/ACTUAT Metered Dose Inhaler,733
+17,67,Mild intermittent asthma,2018-12-08,,NDA021457 200 ACTUAT albuterol 0.09 MG/ACTUAT Metered Dose Inhaler,733
+17,67,Urogenital finding,2018-12-08,,albuterol 0.09 MG/ACTUAT Metered Dose Inhaler,733
+17,67,Urogenital finding,2018-12-08,,NDA020983 200 ACTUAT albuterol 0.09 MG/ACTUAT Metered Dose Inhaler,733
+17,67,Urogenital finding,2018-12-08,,citalopram 20 MG Oral Tablet,733
+17,67,Urogenital finding,2018-12-08,,200 ACTUAT albuterol 0.09 MG/ACTUAT Metered Dose Inhaler,733
+17,67,Urogenital finding,2018-12-08,,NDA020503 200 ACTUAT albuterol 0.09 MG/ACTUAT Metered Dose Inhaler,733
+17,67,Urogenital finding,2018-12-08,,NDA020983 60 ACTUAT albuterol 0.09 MG/ACTUAT Metered Dose Inhaler,733
+17,67,Urogenital finding,2018-12-08,,NDA021457 200 ACTUAT albuterol 0.09 MG/ACTUAT Metered Dose Inhaler,733
+17,67,Pain of breast,2018-12-08,,albuterol 0.09 MG/ACTUAT Metered Dose Inhaler,733
+17,67,Pain of breast,2018-12-08,,NDA020983 200 ACTUAT albuterol 0.09 MG/ACTUAT Metered Dose Inhaler,733
+17,67,Pain of breast,2018-12-08,,citalopram 20 MG Oral Tablet,733
+17,67,Pain of breast,2018-12-08,,200 ACTUAT albuterol 0.09 MG/ACTUAT Metered Dose Inhaler,733
+17,67,Pain of breast,2018-12-08,,NDA020503 200 ACTUAT albuterol 0.09 MG/ACTUAT Metered Dose Inhaler,733
+17,67,Pain of breast,2018-12-08,,NDA020983 60 ACTUAT albuterol 0.09 MG/ACTUAT Metered Dose Inhaler,733
+17,67,Pain of breast,2018-12-08,,NDA021457 200 ACTUAT albuterol 0.09 MG/ACTUAT Metered Dose Inhaler,733
+17,78,Pain of breast,2018-12-19,,3 ML sodium chloride 9 MG/ML Prefilled Syringe,733
+17,78,Pain of breast,2018-12-19,,sodium chloride 9 MG/ML Prefilled Syringe,733
+17,78,Pain of breast,2018-12-19,,2.5 ML sodium chloride 9 MG/ML Prefilled Syringe,733
+17,78,Pain of breast,2018-12-19,,5 ML sodium chloride 9 MG/ML Prefilled Syringe,733
+17,78,Pain of breast,2018-12-19,,10 ML sodium chloride 9 MG/ML Prefilled Syringe,733
+17,78,Pain of breast,2018-12-19,,5 ML sodium chloride 9 MG/ML Cartridge,733
+17,78,Pain of breast,2018-12-19,,sodium chloride 9 MG/ML Cartridge,733
+17,78,Pain of breast,2018-12-19,,sodium chloride 9 MG/ML Injectable Solution,733
+17,78,Pain of breast,2018-12-19,,50 ML sodium chloride 9 MG/ML Prefilled Syringe,733
+17,78,Pain of breast,2018-12-19,,2 ML sodium chloride 9 MG/ML Cartridge,733
+17,78,Pain of breast,2018-12-19,,125 ML sodium chloride 9 MG/ML Prefilled Syringe,733
+17,78,Pain of breast,2018-12-19,,3 ML sodium chloride 9 MG/ML Cartridge,733
+17,81,Pain of breast,2018-12-22,,,733
+17,155,Hypothyroidism,2019-03-06,,,733
+17,259,Wrist joint pain,2019-06-18,,,733
+17,259,Pain in finger,2019-06-18,,,733
+17,387,Wheezing,2019-10-24,,benzonatate 100 MG Oral Capsule,733
+17,387,Wheezing,2019-10-24,,codeine phosphate 2 MG/ML / guaifenesin 20 MG/ML Oral Solution,733
+17,387,Wheezing,2019-10-24,,azithromycin 250 MG Oral Tablet,733
+17,387,Wheezing,2019-10-24,,prednisone 20 MG Oral Tablet,733
+17,387,Cough,2019-10-24,,benzonatate 100 MG Oral Capsule,733
+17,387,Cough,2019-10-24,,codeine phosphate 2 MG/ML / guaifenesin 20 MG/ML Oral Solution,733
+17,387,Cough,2019-10-24,,azithromycin 250 MG Oral Tablet,733
+17,387,Cough,2019-10-24,,prednisone 20 MG Oral Tablet,733
+17,419,Benign neoplasm of peripheral nerves of lower limb,2019-11-25,,sodium chloride 9 MG/ML Prefilled Syringe,733
+17,419,Benign neoplasm of peripheral nerves of lower limb,2019-11-25,,triamcinolone acetonide 40 MG/ML Injectable Suspension,733
+17,419,Benign neoplasm of peripheral nerves of lower limb,2019-11-25,,sodium chloride 9 MG/ML Injectable Solution,733
+17,419,Benign neoplasm of peripheral nerves of lower limb,2019-11-25,,50 ML sodium chloride 9 MG/ML Prefilled Syringe,733
+17,419,Benign neoplasm of peripheral nerves of lower limb,2019-11-25,,calcium chloride 0.0014 MEQ/ML / potassium chloride 0.004 MEQ/ML / sodium chloride 0.103 MEQ/ML / sodium lactate 0.028 MEQ/ML Injectable Solution,733
+17,419,Benign neoplasm of peripheral nerves of lower limb,2019-11-25,,5 ML sodium chloride 9 MG/ML Prefilled Syringe,733
+17,419,Benign neoplasm of peripheral nerves of lower limb,2019-11-25,,1 ML triamcinolone acetonide 40 MG/ML Injection,733
+17,419,Benign neoplasm of peripheral nerves of lower limb,2019-11-25,,125 ML sodium chloride 9 MG/ML Prefilled Syringe,733
+17,419,Benign neoplasm of peripheral nerves of lower limb,2019-11-25,,lidocaine hydrochloride 10 MG/ML Injection,733
+17,419,Benign neoplasm of peripheral nerves of lower limb,2019-11-25,,2.5 ML sodium chloride 9 MG/ML Prefilled Syringe,733
+17,419,Benign neoplasm of peripheral nerves of lower limb,2019-11-25,,5 ML sodium chloride 9 MG/ML Cartridge,733
+17,419,Benign neoplasm of peripheral nerves of lower limb,2019-11-25,,3 ML sodium chloride 9 MG/ML Cartridge,733
+17,419,Benign neoplasm of peripheral nerves of lower limb,2019-11-25,,lidocaine hydrochloride 10 MG/ML Injectable Solution,733
+17,419,Benign neoplasm of peripheral nerves of lower limb,2019-11-25,,sodium chloride 9 MG/ML Cartridge,733
+17,419,Benign neoplasm of peripheral nerves of lower limb,2019-11-25,,2 ML sodium chloride 9 MG/ML Cartridge,733
+17,419,Benign neoplasm of peripheral nerves of lower limb,2019-11-25,,3 ML sodium chloride 9 MG/ML Prefilled Syringe,733
+17,419,Benign neoplasm of peripheral nerves of lower limb,2019-11-25,,10 ML sodium chloride 9 MG/ML Prefilled Syringe,733
+17,419,Pain in left foot,2019-11-25,,sodium chloride 9 MG/ML Prefilled Syringe,733
+17,419,Pain in left foot,2019-11-25,,triamcinolone acetonide 40 MG/ML Injectable Suspension,733
+17,419,Pain in left foot,2019-11-25,,sodium chloride 9 MG/ML Injectable Solution,733
+17,419,Pain in left foot,2019-11-25,,50 ML sodium chloride 9 MG/ML Prefilled Syringe,733
+17,419,Pain in left foot,2019-11-25,,calcium chloride 0.0014 MEQ/ML / potassium chloride 0.004 MEQ/ML / sodium chloride 0.103 MEQ/ML / sodium lactate 0.028 MEQ/ML Injectable Solution,733
+17,419,Pain in left foot,2019-11-25,,5 ML sodium chloride 9 MG/ML Prefilled Syringe,733
+17,419,Pain in left foot,2019-11-25,,1 ML triamcinolone acetonide 40 MG/ML Injection,733
+17,419,Pain in left foot,2019-11-25,,125 ML sodium chloride 9 MG/ML Prefilled Syringe,733
+17,419,Pain in left foot,2019-11-25,,lidocaine hydrochloride 10 MG/ML Injection,733
+17,419,Pain in left foot,2019-11-25,,2.5 ML sodium chloride 9 MG/ML Prefilled Syringe,733
+17,419,Pain in left foot,2019-11-25,,5 ML sodium chloride 9 MG/ML Cartridge,733
+17,419,Pain in left foot,2019-11-25,,3 ML sodium chloride 9 MG/ML Cartridge,733
+17,419,Pain in left foot,2019-11-25,,lidocaine hydrochloride 10 MG/ML Injectable Solution,733
+17,419,Pain in left foot,2019-11-25,,sodium chloride 9 MG/ML Cartridge,733
+17,419,Pain in left foot,2019-11-25,,2 ML sodium chloride 9 MG/ML Cartridge,733
+17,419,Pain in left foot,2019-11-25,,3 ML sodium chloride 9 MG/ML Prefilled Syringe,733
+17,419,Pain in left foot,2019-11-25,,10 ML sodium chloride 9 MG/ML Prefilled Syringe,733
+17,419,Benign neoplasm of autonomic nerve,2019-11-25,,sodium chloride 9 MG/ML Prefilled Syringe,733
+17,419,Benign neoplasm of autonomic nerve,2019-11-25,,triamcinolone acetonide 40 MG/ML Injectable Suspension,733
+17,419,Benign neoplasm of autonomic nerve,2019-11-25,,sodium chloride 9 MG/ML Injectable Solution,733
+17,419,Benign neoplasm of autonomic nerve,2019-11-25,,50 ML sodium chloride 9 MG/ML Prefilled Syringe,733
+17,419,Benign neoplasm of autonomic nerve,2019-11-25,,calcium chloride 0.0014 MEQ/ML / potassium chloride 0.004 MEQ/ML / sodium chloride 0.103 MEQ/ML / sodium lactate 0.028 MEQ/ML Injectable Solution,733
+17,419,Benign neoplasm of autonomic nerve,2019-11-25,,5 ML sodium chloride 9 MG/ML Prefilled Syringe,733
+17,419,Benign neoplasm of autonomic nerve,2019-11-25,,1 ML triamcinolone acetonide 40 MG/ML Injection,733
+17,419,Benign neoplasm of autonomic nerve,2019-11-25,,125 ML sodium chloride 9 MG/ML Prefilled Syringe,733
+17,419,Benign neoplasm of autonomic nerve,2019-11-25,,lidocaine hydrochloride 10 MG/ML Injection,733
+17,419,Benign neoplasm of autonomic nerve,2019-11-25,,2.5 ML sodium chloride 9 MG/ML Prefilled Syringe,733
+17,419,Benign neoplasm of autonomic nerve,2019-11-25,,5 ML sodium chloride 9 MG/ML Cartridge,733
+17,419,Benign neoplasm of autonomic nerve,2019-11-25,,3 ML sodium chloride 9 MG/ML Cartridge,733
+17,419,Benign neoplasm of autonomic nerve,2019-11-25,,lidocaine hydrochloride 10 MG/ML Injectable Solution,733
+17,419,Benign neoplasm of autonomic nerve,2019-11-25,,sodium chloride 9 MG/ML Cartridge,733
+17,419,Benign neoplasm of autonomic nerve,2019-11-25,,2 ML sodium chloride 9 MG/ML Cartridge,733
+17,419,Benign neoplasm of autonomic nerve,2019-11-25,,3 ML sodium chloride 9 MG/ML Prefilled Syringe,733
+17,419,Benign neoplasm of autonomic nerve,2019-11-25,,10 ML sodium chloride 9 MG/ML Prefilled Syringe,733
+17,466,Plantar nerve lesion,2020-01-11,,,733
+17,468,Mild intermittent asthma,2020-01-13,,100 ML propofol 10 MG/ML Injection,733
+17,468,Mild intermittent asthma,2020-01-13,,albuterol 0.83 MG/ML Inhalation Solution,733
+17,468,Mild intermittent asthma,2020-01-13,,10 ML propofol 10 MG/ML Injection,733
+17,468,Mild intermittent asthma,2020-01-13,,bupivacaine hydrochloride 5 MG/ML Injection,733
+17,468,Mild intermittent asthma,2020-01-13,,2 ML sodium chloride 9 MG/ML Cartridge,733
+17,468,Mild intermittent asthma,2020-01-13,,naloxone hydrochloride 0.4 MG/ML Injection,733
+17,468,Mild intermittent asthma,2020-01-13,,propofol 10 MG/ML Injection,733
+17,468,Mild intermittent asthma,2020-01-13,,0.5 ML hydromorphone hydrochloride 1 MG/ML Prefilled Syringe,733
+17,468,Mild intermittent asthma,2020-01-13,,20 ML bupivacaine hydrochloride 5 MG/ML Injection,733
+17,468,Mild intermittent asthma,2020-01-13,,ketorolac tromethamine 30 MG/ML Injectable Solution,733
+17,468,Mild intermittent asthma,2020-01-13,,1 ML haloperidol 5 MG/ML Injection,733
+17,468,Mild intermittent asthma,2020-01-13,,1 ML naloxone hydrochloride 0.4 MG/ML Injection,733
+17,468,Mild intermittent asthma,2020-01-13,,2.5 ML sodium chloride 9 MG/ML Prefilled Syringe,733
+17,468,Mild intermittent asthma,2020-01-13,,3 ML sodium chloride 9 MG/ML Cartridge,733
+17,468,Mild intermittent asthma,2020-01-13,,sodium chloride 9 MG/ML Prefilled Syringe,733
+17,468,Mild intermittent asthma,2020-01-13,,10 ML lidocaine hydrochloride 10 MG/ML Injection,733
+17,468,Mild intermittent asthma,2020-01-13,,bupivacaine hydrochloride 5 MG/ML Injectable Solution,733
+17,468,Mild intermittent asthma,2020-01-13,,3 ML sodium chloride 9 MG/ML Prefilled Syringe,733
+17,468,Mild intermittent asthma,2020-01-13,,1 ML dexamethasone phosphate 4 MG/ML Injection,733
+17,468,Mild intermittent asthma,2020-01-13,,5 ML sodium chloride 9 MG/ML Prefilled Syringe,733
+17,468,Mild intermittent asthma,2020-01-13,,naloxone hydrochloride 0.4 MG/ML Injectable Solution,733
+17,468,Mild intermittent asthma,2020-01-13,,5 ML lidocaine hydrochloride 10 MG/ML Injection,733
+17,468,Mild intermittent asthma,2020-01-13,,1 ML ketorolac tromethamine 30 MG/ML Cartridge,733
+17,468,Mild intermittent asthma,2020-01-13,,sodium chloride 9 MG/ML Injectable Solution,733
+17,468,Mild intermittent asthma,2020-01-13,,sodium chloride 9 MG/ML Cartridge,733
+17,468,Mild intermittent asthma,2020-01-13,,fentanyl,733
+17,468,Mild intermittent asthma,2020-01-13,,propofol 10 MG/ML Injectable Suspension,733
+17,468,Mild intermittent asthma,2020-01-13,,haloperidol 5 MG/ML Injectable Solution,733
+17,468,Mild intermittent asthma,2020-01-13,,calcium chloride 0.0014 MEQ/ML / potassium chloride 0.004 MEQ/ML / sodium chloride 0.103 MEQ/ML / sodium lactate 0.028 MEQ/ML Injectable Solution,733
+17,468,Mild intermittent asthma,2020-01-13,,lidocaine hydrochloride 10 MG/ML Injection,733
+17,468,Mild intermittent asthma,2020-01-13,,10 ML bupivacaine hydrochloride 5 MG/ML Injection,733
+17,468,Mild intermittent asthma,2020-01-13,,2 ML ondansetron 2 MG/ML Injection,733
+17,468,Mild intermittent asthma,2020-01-13,,5 ML bupivacaine hydrochloride 5 MG/ML Injection,733
+17,468,Mild intermittent asthma,2020-01-13,,ondansetron 2 MG/ML Injectable Solution,733
+17,468,Mild intermittent asthma,2020-01-13,,1 ML hydromorphone hydrochloride 1 MG/ML Prefilled Syringe,733
+17,468,Mild intermittent asthma,2020-01-13,,acetaminophen 300 MG / codeine phosphate 30 MG Oral Tablet,733
+17,468,Mild intermittent asthma,2020-01-13,,125 ML sodium chloride 9 MG/ML Prefilled Syringe,733
+17,468,Mild intermittent asthma,2020-01-13,,dexamethasone phosphate 4 MG/ML Injectable Solution,733
+17,468,Mild intermittent asthma,2020-01-13,,haloperidol 5 MG/ML Injection,733
+17,468,Mild intermittent asthma,2020-01-13,,10 ML sodium chloride 9 MG/ML Prefilled Syringe,733
+17,468,Mild intermittent asthma,2020-01-13,,5 ML sodium chloride 9 MG/ML Cartridge,733
+17,468,Mild intermittent asthma,2020-01-13,,30 ML bupivacaine hydrochloride 5 MG/ML Injection,733
+17,468,Mild intermittent asthma,2020-01-13,,30 ML lidocaine hydrochloride 10 MG/ML Injection,733
+17,468,Mild intermittent asthma,2020-01-13,,2 ML lidocaine hydrochloride 10 MG/ML Injection,733
+17,468,Mild intermittent asthma,2020-01-13,,1 ML promethazine hydrochloride 25 MG/ML Injection,733
+17,468,Mild intermittent asthma,2020-01-13,,50 ML sodium chloride 9 MG/ML Prefilled Syringe,733
+17,468,Mild intermittent asthma,2020-01-13,,20 ML propofol 10 MG/ML Injection,733
+17,468,Mild intermittent asthma,2020-01-13,,50 ML propofol 10 MG/ML Injection,733
+17,468,Mild intermittent asthma,2020-01-13,,lidocaine hydrochloride 10 MG/ML Injectable Solution,733
+17,468,Mild intermittent asthma,2020-01-13,,ibuprofen 200 MG Oral Capsule,733
+17,468,Mild intermittent asthma,2020-01-13,,1 ML ketorolac tromethamine 30 MG/ML Injection,733
+17,468,Benign neoplasm of autonomic nerve,2020-01-13,,100 ML propofol 10 MG/ML Injection,733
+17,468,Benign neoplasm of autonomic nerve,2020-01-13,,albuterol 0.83 MG/ML Inhalation Solution,733
+17,468,Benign neoplasm of autonomic nerve,2020-01-13,,10 ML propofol 10 MG/ML Injection,733
+17,468,Benign neoplasm of autonomic nerve,2020-01-13,,bupivacaine hydrochloride 5 MG/ML Injection,733
+17,468,Benign neoplasm of autonomic nerve,2020-01-13,,2 ML sodium chloride 9 MG/ML Cartridge,733
+17,468,Benign neoplasm of autonomic nerve,2020-01-13,,naloxone hydrochloride 0.4 MG/ML Injection,733
+17,468,Benign neoplasm of autonomic nerve,2020-01-13,,propofol 10 MG/ML Injection,733
+17,468,Benign neoplasm of autonomic nerve,2020-01-13,,0.5 ML hydromorphone hydrochloride 1 MG/ML Prefilled Syringe,733
+17,468,Benign neoplasm of autonomic nerve,2020-01-13,,20 ML bupivacaine hydrochloride 5 MG/ML Injection,733
+17,468,Benign neoplasm of autonomic nerve,2020-01-13,,ketorolac tromethamine 30 MG/ML Injectable Solution,733
+17,468,Benign neoplasm of autonomic nerve,2020-01-13,,1 ML haloperidol 5 MG/ML Injection,733
+17,468,Benign neoplasm of autonomic nerve,2020-01-13,,1 ML naloxone hydrochloride 0.4 MG/ML Injection,733
+17,468,Benign neoplasm of autonomic nerve,2020-01-13,,2.5 ML sodium chloride 9 MG/ML Prefilled Syringe,733
+17,468,Benign neoplasm of autonomic nerve,2020-01-13,,3 ML sodium chloride 9 MG/ML Cartridge,733
+17,468,Benign neoplasm of autonomic nerve,2020-01-13,,sodium chloride 9 MG/ML Prefilled Syringe,733
+17,468,Benign neoplasm of autonomic nerve,2020-01-13,,10 ML lidocaine hydrochloride 10 MG/ML Injection,733
+17,468,Benign neoplasm of autonomic nerve,2020-01-13,,bupivacaine hydrochloride 5 MG/ML Injectable Solution,733
+17,468,Benign neoplasm of autonomic nerve,2020-01-13,,3 ML sodium chloride 9 MG/ML Prefilled Syringe,733
+17,468,Benign neoplasm of autonomic nerve,2020-01-13,,1 ML dexamethasone phosphate 4 MG/ML Injection,733
+17,468,Benign neoplasm of autonomic nerve,2020-01-13,,5 ML sodium chloride 9 MG/ML Prefilled Syringe,733
+17,468,Benign neoplasm of autonomic nerve,2020-01-13,,naloxone hydrochloride 0.4 MG/ML Injectable Solution,733
+17,468,Benign neoplasm of autonomic nerve,2020-01-13,,5 ML lidocaine hydrochloride 10 MG/ML Injection,733
+17,468,Benign neoplasm of autonomic nerve,2020-01-13,,1 ML ketorolac tromethamine 30 MG/ML Cartridge,733
+17,468,Benign neoplasm of autonomic nerve,2020-01-13,,sodium chloride 9 MG/ML Injectable Solution,733
+17,468,Benign neoplasm of autonomic nerve,2020-01-13,,sodium chloride 9 MG/ML Cartridge,733
+17,468,Benign neoplasm of autonomic nerve,2020-01-13,,fentanyl,733
+17,468,Benign neoplasm of autonomic nerve,2020-01-13,,propofol 10 MG/ML Injectable Suspension,733
+17,468,Benign neoplasm of autonomic nerve,2020-01-13,,haloperidol 5 MG/ML Injectable Solution,733
+17,468,Benign neoplasm of autonomic nerve,2020-01-13,,calcium chloride 0.0014 MEQ/ML / potassium chloride 0.004 MEQ/ML / sodium chloride 0.103 MEQ/ML / sodium lactate 0.028 MEQ/ML Injectable Solution,733
+17,468,Benign neoplasm of autonomic nerve,2020-01-13,,lidocaine hydrochloride 10 MG/ML Injection,733
+17,468,Benign neoplasm of autonomic nerve,2020-01-13,,10 ML bupivacaine hydrochloride 5 MG/ML Injection,733
+17,468,Benign neoplasm of autonomic nerve,2020-01-13,,2 ML ondansetron 2 MG/ML Injection,733
+17,468,Benign neoplasm of autonomic nerve,2020-01-13,,5 ML bupivacaine hydrochloride 5 MG/ML Injection,733
+17,468,Benign neoplasm of autonomic nerve,2020-01-13,,ondansetron 2 MG/ML Injectable Solution,733
+17,468,Benign neoplasm of autonomic nerve,2020-01-13,,1 ML hydromorphone hydrochloride 1 MG/ML Prefilled Syringe,733
+17,468,Benign neoplasm of autonomic nerve,2020-01-13,,acetaminophen 300 MG / codeine phosphate 30 MG Oral Tablet,733
+17,468,Benign neoplasm of autonomic nerve,2020-01-13,,125 ML sodium chloride 9 MG/ML Prefilled Syringe,733
+17,468,Benign neoplasm of autonomic nerve,2020-01-13,,dexamethasone phosphate 4 MG/ML Injectable Solution,733
+17,468,Benign neoplasm of autonomic nerve,2020-01-13,,haloperidol 5 MG/ML Injection,733
+17,468,Benign neoplasm of autonomic nerve,2020-01-13,,10 ML sodium chloride 9 MG/ML Prefilled Syringe,733
+17,468,Benign neoplasm of autonomic nerve,2020-01-13,,5 ML sodium chloride 9 MG/ML Cartridge,733
+17,468,Benign neoplasm of autonomic nerve,2020-01-13,,30 ML bupivacaine hydrochloride 5 MG/ML Injection,733
+17,468,Benign neoplasm of autonomic nerve,2020-01-13,,30 ML lidocaine hydrochloride 10 MG/ML Injection,733
+17,468,Benign neoplasm of autonomic nerve,2020-01-13,,2 ML lidocaine hydrochloride 10 MG/ML Injection,733
+17,468,Benign neoplasm of autonomic nerve,2020-01-13,,1 ML promethazine hydrochloride 25 MG/ML Injection,733
+17,468,Benign neoplasm of autonomic nerve,2020-01-13,,50 ML sodium chloride 9 MG/ML Prefilled Syringe,733
+17,468,Benign neoplasm of autonomic nerve,2020-01-13,,20 ML propofol 10 MG/ML Injection,733
+17,468,Benign neoplasm of autonomic nerve,2020-01-13,,50 ML propofol 10 MG/ML Injection,733
+17,468,Benign neoplasm of autonomic nerve,2020-01-13,,lidocaine hydrochloride 10 MG/ML Injectable Solution,733
+17,468,Benign neoplasm of autonomic nerve,2020-01-13,,ibuprofen 200 MG Oral Capsule,733
+17,468,Benign neoplasm of autonomic nerve,2020-01-13,,1 ML ketorolac tromethamine 30 MG/ML Injection,733
+17,468,Pain in left foot,2020-01-13,,100 ML propofol 10 MG/ML Injection,733
+17,468,Pain in left foot,2020-01-13,,albuterol 0.83 MG/ML Inhalation Solution,733
+17,468,Pain in left foot,2020-01-13,,10 ML propofol 10 MG/ML Injection,733
+17,468,Pain in left foot,2020-01-13,,bupivacaine hydrochloride 5 MG/ML Injection,733
+17,468,Pain in left foot,2020-01-13,,2 ML sodium chloride 9 MG/ML Cartridge,733
+17,468,Pain in left foot,2020-01-13,,naloxone hydrochloride 0.4 MG/ML Injection,733
+17,468,Pain in left foot,2020-01-13,,propofol 10 MG/ML Injection,733
+17,468,Pain in left foot,2020-01-13,,0.5 ML hydromorphone hydrochloride 1 MG/ML Prefilled Syringe,733
+17,468,Pain in left foot,2020-01-13,,20 ML bupivacaine hydrochloride 5 MG/ML Injection,733
+17,468,Pain in left foot,2020-01-13,,ketorolac tromethamine 30 MG/ML Injectable Solution,733
+17,468,Pain in left foot,2020-01-13,,1 ML haloperidol 5 MG/ML Injection,733
+17,468,Pain in left foot,2020-01-13,,1 ML naloxone hydrochloride 0.4 MG/ML Injection,733
+17,468,Pain in left foot,2020-01-13,,2.5 ML sodium chloride 9 MG/ML Prefilled Syringe,733
+17,468,Pain in left foot,2020-01-13,,3 ML sodium chloride 9 MG/ML Cartridge,733
+17,468,Pain in left foot,2020-01-13,,sodium chloride 9 MG/ML Prefilled Syringe,733
+17,468,Pain in left foot,2020-01-13,,10 ML lidocaine hydrochloride 10 MG/ML Injection,733
+17,468,Pain in left foot,2020-01-13,,bupivacaine hydrochloride 5 MG/ML Injectable Solution,733
+17,468,Pain in left foot,2020-01-13,,3 ML sodium chloride 9 MG/ML Prefilled Syringe,733
+17,468,Pain in left foot,2020-01-13,,1 ML dexamethasone phosphate 4 MG/ML Injection,733
+17,468,Pain in left foot,2020-01-13,,5 ML sodium chloride 9 MG/ML Prefilled Syringe,733
+17,468,Pain in left foot,2020-01-13,,naloxone hydrochloride 0.4 MG/ML Injectable Solution,733
+17,468,Pain in left foot,2020-01-13,,5 ML lidocaine hydrochloride 10 MG/ML Injection,733
+17,468,Pain in left foot,2020-01-13,,1 ML ketorolac tromethamine 30 MG/ML Cartridge,733
+17,468,Pain in left foot,2020-01-13,,sodium chloride 9 MG/ML Injectable Solution,733
+17,468,Pain in left foot,2020-01-13,,sodium chloride 9 MG/ML Cartridge,733
+17,468,Pain in left foot,2020-01-13,,fentanyl,733
+17,468,Pain in left foot,2020-01-13,,propofol 10 MG/ML Injectable Suspension,733
+17,468,Pain in left foot,2020-01-13,,haloperidol 5 MG/ML Injectable Solution,733
+17,468,Pain in left foot,2020-01-13,,calcium chloride 0.0014 MEQ/ML / potassium chloride 0.004 MEQ/ML / sodium chloride 0.103 MEQ/ML / sodium lactate 0.028 MEQ/ML Injectable Solution,733
+17,468,Pain in left foot,2020-01-13,,lidocaine hydrochloride 10 MG/ML Injection,733
+17,468,Pain in left foot,2020-01-13,,10 ML bupivacaine hydrochloride 5 MG/ML Injection,733
+17,468,Pain in left foot,2020-01-13,,2 ML ondansetron 2 MG/ML Injection,733
+17,468,Pain in left foot,2020-01-13,,5 ML bupivacaine hydrochloride 5 MG/ML Injection,733
+17,468,Pain in left foot,2020-01-13,,ondansetron 2 MG/ML Injectable Solution,733
+17,468,Pain in left foot,2020-01-13,,1 ML hydromorphone hydrochloride 1 MG/ML Prefilled Syringe,733
+17,468,Pain in left foot,2020-01-13,,acetaminophen 300 MG / codeine phosphate 30 MG Oral Tablet,733
+17,468,Pain in left foot,2020-01-13,,125 ML sodium chloride 9 MG/ML Prefilled Syringe,733
+17,468,Pain in left foot,2020-01-13,,dexamethasone phosphate 4 MG/ML Injectable Solution,733
+17,468,Pain in left foot,2020-01-13,,haloperidol 5 MG/ML Injection,733
+17,468,Pain in left foot,2020-01-13,,10 ML sodium chloride 9 MG/ML Prefilled Syringe,733
+17,468,Pain in left foot,2020-01-13,,5 ML sodium chloride 9 MG/ML Cartridge,733
+17,468,Pain in left foot,2020-01-13,,30 ML bupivacaine hydrochloride 5 MG/ML Injection,733
+17,468,Pain in left foot,2020-01-13,,30 ML lidocaine hydrochloride 10 MG/ML Injection,733
+17,468,Pain in left foot,2020-01-13,,2 ML lidocaine hydrochloride 10 MG/ML Injection,733
+17,468,Pain in left foot,2020-01-13,,1 ML promethazine hydrochloride 25 MG/ML Injection,733
+17,468,Pain in left foot,2020-01-13,,50 ML sodium chloride 9 MG/ML Prefilled Syringe,733
+17,468,Pain in left foot,2020-01-13,,20 ML propofol 10 MG/ML Injection,733
+17,468,Pain in left foot,2020-01-13,,50 ML propofol 10 MG/ML Injection,733
+17,468,Pain in left foot,2020-01-13,,lidocaine hydrochloride 10 MG/ML Injectable Solution,733
+17,468,Pain in left foot,2020-01-13,,ibuprofen 200 MG Oral Capsule,733
+17,468,Pain in left foot,2020-01-13,,1 ML ketorolac tromethamine 30 MG/ML Injection,733
+17,468,Plantar nerve lesion,2020-01-13,,100 ML propofol 10 MG/ML Injection,733
+17,468,Plantar nerve lesion,2020-01-13,,albuterol 0.83 MG/ML Inhalation Solution,733
+17,468,Plantar nerve lesion,2020-01-13,,10 ML propofol 10 MG/ML Injection,733
+17,468,Plantar nerve lesion,2020-01-13,,bupivacaine hydrochloride 5 MG/ML Injection,733
+17,468,Plantar nerve lesion,2020-01-13,,2 ML sodium chloride 9 MG/ML Cartridge,733
+17,468,Plantar nerve lesion,2020-01-13,,naloxone hydrochloride 0.4 MG/ML Injection,733
+17,468,Plantar nerve lesion,2020-01-13,,propofol 10 MG/ML Injection,733
+17,468,Plantar nerve lesion,2020-01-13,,0.5 ML hydromorphone hydrochloride 1 MG/ML Prefilled Syringe,733
+17,468,Plantar nerve lesion,2020-01-13,,20 ML bupivacaine hydrochloride 5 MG/ML Injection,733
+17,468,Plantar nerve lesion,2020-01-13,,ketorolac tromethamine 30 MG/ML Injectable Solution,733
+17,468,Plantar nerve lesion,2020-01-13,,1 ML haloperidol 5 MG/ML Injection,733
+17,468,Plantar nerve lesion,2020-01-13,,1 ML naloxone hydrochloride 0.4 MG/ML Injection,733
+17,468,Plantar nerve lesion,2020-01-13,,2.5 ML sodium chloride 9 MG/ML Prefilled Syringe,733
+17,468,Plantar nerve lesion,2020-01-13,,3 ML sodium chloride 9 MG/ML Cartridge,733
+17,468,Plantar nerve lesion,2020-01-13,,sodium chloride 9 MG/ML Prefilled Syringe,733
+17,468,Plantar nerve lesion,2020-01-13,,10 ML lidocaine hydrochloride 10 MG/ML Injection,733
+17,468,Plantar nerve lesion,2020-01-13,,bupivacaine hydrochloride 5 MG/ML Injectable Solution,733
+17,468,Plantar nerve lesion,2020-01-13,,3 ML sodium chloride 9 MG/ML Prefilled Syringe,733
+17,468,Plantar nerve lesion,2020-01-13,,1 ML dexamethasone phosphate 4 MG/ML Injection,733
+17,468,Plantar nerve lesion,2020-01-13,,5 ML sodium chloride 9 MG/ML Prefilled Syringe,733
+17,468,Plantar nerve lesion,2020-01-13,,naloxone hydrochloride 0.4 MG/ML Injectable Solution,733
+17,468,Plantar nerve lesion,2020-01-13,,5 ML lidocaine hydrochloride 10 MG/ML Injection,733
+17,468,Plantar nerve lesion,2020-01-13,,1 ML ketorolac tromethamine 30 MG/ML Cartridge,733
+17,468,Plantar nerve lesion,2020-01-13,,sodium chloride 9 MG/ML Injectable Solution,733
+17,468,Plantar nerve lesion,2020-01-13,,sodium chloride 9 MG/ML Cartridge,733
+17,468,Plantar nerve lesion,2020-01-13,,fentanyl,733
+17,468,Plantar nerve lesion,2020-01-13,,propofol 10 MG/ML Injectable Suspension,733
+17,468,Plantar nerve lesion,2020-01-13,,haloperidol 5 MG/ML Injectable Solution,733
+17,468,Plantar nerve lesion,2020-01-13,,calcium chloride 0.0014 MEQ/ML / potassium chloride 0.004 MEQ/ML / sodium chloride 0.103 MEQ/ML / sodium lactate 0.028 MEQ/ML Injectable Solution,733
+17,468,Plantar nerve lesion,2020-01-13,,lidocaine hydrochloride 10 MG/ML Injection,733
+17,468,Plantar nerve lesion,2020-01-13,,10 ML bupivacaine hydrochloride 5 MG/ML Injection,733
+17,468,Plantar nerve lesion,2020-01-13,,2 ML ondansetron 2 MG/ML Injection,733
+17,468,Plantar nerve lesion,2020-01-13,,5 ML bupivacaine hydrochloride 5 MG/ML Injection,733
+17,468,Plantar nerve lesion,2020-01-13,,ondansetron 2 MG/ML Injectable Solution,733
+17,468,Plantar nerve lesion,2020-01-13,,1 ML hydromorphone hydrochloride 1 MG/ML Prefilled Syringe,733
+17,468,Plantar nerve lesion,2020-01-13,,acetaminophen 300 MG / codeine phosphate 30 MG Oral Tablet,733
+17,468,Plantar nerve lesion,2020-01-13,,125 ML sodium chloride 9 MG/ML Prefilled Syringe,733
+17,468,Plantar nerve lesion,2020-01-13,,dexamethasone phosphate 4 MG/ML Injectable Solution,733
+17,468,Plantar nerve lesion,2020-01-13,,haloperidol 5 MG/ML Injection,733
+17,468,Plantar nerve lesion,2020-01-13,,10 ML sodium chloride 9 MG/ML Prefilled Syringe,733
+17,468,Plantar nerve lesion,2020-01-13,,5 ML sodium chloride 9 MG/ML Cartridge,733
+17,468,Plantar nerve lesion,2020-01-13,,30 ML bupivacaine hydrochloride 5 MG/ML Injection,733
+17,468,Plantar nerve lesion,2020-01-13,,30 ML lidocaine hydrochloride 10 MG/ML Injection,733
+17,468,Plantar nerve lesion,2020-01-13,,2 ML lidocaine hydrochloride 10 MG/ML Injection,733
+17,468,Plantar nerve lesion,2020-01-13,,1 ML promethazine hydrochloride 25 MG/ML Injection,733
+17,468,Plantar nerve lesion,2020-01-13,,50 ML sodium chloride 9 MG/ML Prefilled Syringe,733
+17,468,Plantar nerve lesion,2020-01-13,,20 ML propofol 10 MG/ML Injection,733
+17,468,Plantar nerve lesion,2020-01-13,,50 ML propofol 10 MG/ML Injection,733
+17,468,Plantar nerve lesion,2020-01-13,,lidocaine hydrochloride 10 MG/ML Injectable Solution,733
+17,468,Plantar nerve lesion,2020-01-13,,ibuprofen 200 MG Oral Capsule,733
+17,468,Plantar nerve lesion,2020-01-13,,1 ML ketorolac tromethamine 30 MG/ML Injection,733
+17,483,Benign neoplasm of autonomic nerve,2020-01-28,,,733
+17,489,,2020-02-03,,200 ACTUAT albuterol 0.09 MG/ACTUAT Metered Dose Inhaler,733
+17,489,,2020-02-03,,albuterol 0.09 MG/ACTUAT Metered Dose Inhaler,733
+17,489,,2020-02-03,,NDA020983 200 ACTUAT albuterol 0.09 MG/ACTUAT Metered Dose Inhaler,733
+17,489,,2020-02-03,,citalopram 20 MG Oral Tablet,733
+17,489,,2020-02-03,,NDA020503 200 ACTUAT albuterol 0.09 MG/ACTUAT Metered Dose Inhaler,733
+17,489,,2020-02-03,,NDA020983 60 ACTUAT albuterol 0.09 MG/ACTUAT Metered Dose Inhaler,733
+17,489,,2020-02-03,,NDA021457 200 ACTUAT albuterol 0.09 MG/ACTUAT Metered Dose Inhaler,733
+17,527,Pain in left foot,2020-03-12,,,733
+17,528,Open wound of foot,2020-03-13,,,733
+17,529,Cellulitis,2020-03-14,,,733
+17,529,Pain in left foot,2020-03-14,,,733
+17,529,Abscess of foot,2020-03-14,,,733
+17,533,Cellulitis,2020-03-18,,sodium chloride 9 MG/ML Injectable Solution,733
+17,533,Cellulitis,2020-03-18,,2.5 ML sodium chloride 9 MG/ML Prefilled Syringe,733
+17,533,Cellulitis,2020-03-18,,3 ML sodium chloride 9 MG/ML Cartridge,733
+17,533,Cellulitis,2020-03-18,,10 ML sodium chloride 9 MG/ML Prefilled Syringe,733
+17,533,Cellulitis,2020-03-18,,125 ML sodium chloride 9 MG/ML Prefilled Syringe,733
+17,533,Cellulitis,2020-03-18,,3 ML sodium chloride 9 MG/ML Prefilled Syringe,733
+17,533,Cellulitis,2020-03-18,,2 ML sodium chloride 9 MG/ML Cartridge,733
+17,533,Cellulitis,2020-03-18,,sodium chloride 9 MG/ML Cartridge,733
+17,533,Cellulitis,2020-03-18,,50 ML sodium chloride 9 MG/ML Prefilled Syringe,733
+17,533,Cellulitis,2020-03-18,,sodium chloride 9 MG/ML Prefilled Syringe,733
+17,533,Cellulitis,2020-03-18,,5 ML sodium chloride 9 MG/ML Cartridge,733
+17,533,Cellulitis,2020-03-18,,5 ML sodium chloride 9 MG/ML Prefilled Syringe,733
+17,533,Abscess of foot,2020-03-18,,sodium chloride 9 MG/ML Injectable Solution,733
+17,533,Abscess of foot,2020-03-18,,2.5 ML sodium chloride 9 MG/ML Prefilled Syringe,733
+17,533,Abscess of foot,2020-03-18,,3 ML sodium chloride 9 MG/ML Cartridge,733
+17,533,Abscess of foot,2020-03-18,,10 ML sodium chloride 9 MG/ML Prefilled Syringe,733
+17,533,Abscess of foot,2020-03-18,,125 ML sodium chloride 9 MG/ML Prefilled Syringe,733
+17,533,Abscess of foot,2020-03-18,,3 ML sodium chloride 9 MG/ML Prefilled Syringe,733
+17,533,Abscess of foot,2020-03-18,,2 ML sodium chloride 9 MG/ML Cartridge,733
+17,533,Abscess of foot,2020-03-18,,sodium chloride 9 MG/ML Cartridge,733
+17,533,Abscess of foot,2020-03-18,,50 ML sodium chloride 9 MG/ML Prefilled Syringe,733
+17,533,Abscess of foot,2020-03-18,,sodium chloride 9 MG/ML Prefilled Syringe,733
+17,533,Abscess of foot,2020-03-18,,5 ML sodium chloride 9 MG/ML Cartridge,733
+17,533,Abscess of foot,2020-03-18,,5 ML sodium chloride 9 MG/ML Prefilled Syringe,733
+17,533,Pain in left foot,2020-03-18,,sodium chloride 9 MG/ML Injectable Solution,733
+17,533,Pain in left foot,2020-03-18,,2.5 ML sodium chloride 9 MG/ML Prefilled Syringe,733
+17,533,Pain in left foot,2020-03-18,,3 ML sodium chloride 9 MG/ML Cartridge,733
+17,533,Pain in left foot,2020-03-18,,10 ML sodium chloride 9 MG/ML Prefilled Syringe,733
+17,533,Pain in left foot,2020-03-18,,125 ML sodium chloride 9 MG/ML Prefilled Syringe,733
+17,533,Pain in left foot,2020-03-18,,3 ML sodium chloride 9 MG/ML Prefilled Syringe,733
+17,533,Pain in left foot,2020-03-18,,2 ML sodium chloride 9 MG/ML Cartridge,733
+17,533,Pain in left foot,2020-03-18,,sodium chloride 9 MG/ML Cartridge,733
+17,533,Pain in left foot,2020-03-18,,50 ML sodium chloride 9 MG/ML Prefilled Syringe,733
+17,533,Pain in left foot,2020-03-18,,sodium chloride 9 MG/ML Prefilled Syringe,733
+17,533,Pain in left foot,2020-03-18,,5 ML sodium chloride 9 MG/ML Cartridge,733
+17,533,Pain in left foot,2020-03-18,,5 ML sodium chloride 9 MG/ML Prefilled Syringe,733
+17,537,,2020-03-22,,cephalexin 500 MG Oral Capsule,733
+17,601,Osteoarthrosis of the carpometacarpal joint of the thumb,2020-05-25,,triamcinolone acetonide 40 MG/ML Injectable Suspension,733
+17,601,Osteoarthrosis of the carpometacarpal joint of the thumb,2020-05-25,,lidocaine hydrochloride 10 MG/ML Injection,733
+17,601,Osteoarthrosis of the carpometacarpal joint of the thumb,2020-05-25,,5 ML lidocaine hydrochloride 10 MG/ML Injection,733
+17,601,Osteoarthrosis of the carpometacarpal joint of the thumb,2020-05-25,,2 ML lidocaine hydrochloride 10 MG/ML Injection,733
+17,601,Osteoarthrosis of the carpometacarpal joint of the thumb,2020-05-25,,lidocaine hydrochloride 10 MG/ML Injectable Solution,733
+17,601,Osteoarthrosis of the carpometacarpal joint of the thumb,2020-05-25,,30 ML lidocaine hydrochloride 10 MG/ML Injection,733
+17,601,Osteoarthrosis of the carpometacarpal joint of the thumb,2020-05-25,,1 ML triamcinolone acetonide 40 MG/ML Injection,733
+17,601,Osteoarthrosis of the carpometacarpal joint of the thumb,2020-05-25,,10 ML lidocaine hydrochloride 10 MG/ML Injection,733
+17,601,Pain in finger,2020-05-25,,triamcinolone acetonide 40 MG/ML Injectable Suspension,733
+17,601,Pain in finger,2020-05-25,,lidocaine hydrochloride 10 MG/ML Injection,733
+17,601,Pain in finger,2020-05-25,,5 ML lidocaine hydrochloride 10 MG/ML Injection,733
+17,601,Pain in finger,2020-05-25,,2 ML lidocaine hydrochloride 10 MG/ML Injection,733
+17,601,Pain in finger,2020-05-25,,lidocaine hydrochloride 10 MG/ML Injectable Solution,733
+17,601,Pain in finger,2020-05-25,,30 ML lidocaine hydrochloride 10 MG/ML Injection,733
+17,601,Pain in finger,2020-05-25,,1 ML triamcinolone acetonide 40 MG/ML Injection,733
+17,601,Pain in finger,2020-05-25,,10 ML lidocaine hydrochloride 10 MG/ML Injection,733
+17,601,Wrist joint pain,2020-05-25,,triamcinolone acetonide 40 MG/ML Injectable Suspension,733
+17,601,Wrist joint pain,2020-05-25,,lidocaine hydrochloride 10 MG/ML Injection,733
+17,601,Wrist joint pain,2020-05-25,,5 ML lidocaine hydrochloride 10 MG/ML Injection,733
+17,601,Wrist joint pain,2020-05-25,,2 ML lidocaine hydrochloride 10 MG/ML Injection,733
+17,601,Wrist joint pain,2020-05-25,,lidocaine hydrochloride 10 MG/ML Injectable Solution,733
+17,601,Wrist joint pain,2020-05-25,,30 ML lidocaine hydrochloride 10 MG/ML Injection,733
+17,601,Wrist joint pain,2020-05-25,,1 ML triamcinolone acetonide 40 MG/ML Injection,733
+17,601,Wrist joint pain,2020-05-25,,10 ML lidocaine hydrochloride 10 MG/ML Injection,733
+17,602,,2020-05-26,,cephalexin 500 MG Oral Capsule,733
+17,705,Acute upper respiratory infection,2020-09-06,,,733
+17,705,COVID-19,2020-09-06,,,733
+17,733,Cough,2020-10-04,,azithromycin 250 MG Oral Tablet,733
+17,733,Cough,2020-10-04,,guaifenesin 20 MG/ML Oral Solution,733
+17,733,Cough,2020-10-04,,prednisone 20 MG Oral Tablet,733
+17,733,Cough,2020-10-04,,benzonatate 100 MG Oral Capsule,733
+18,0,Obesity,2019-07-31,,lisinopril,557
+18,0,Obesity,2019-07-31,,metformin,557
+18,0,Obesity,2019-07-31,,sildenafil,557
+18,0,Benign lipomatous tumor,2019-07-31,,lisinopril,557
+18,0,Benign lipomatous tumor,2019-07-31,,metformin,557
+18,0,Benign lipomatous tumor,2019-07-31,,sildenafil,557
+18,0,Essential hypertension,2019-07-31,,lisinopril,557
+18,0,Essential hypertension,2019-07-31,,metformin,557
+18,0,Essential hypertension,2019-07-31,,sildenafil,557
+18,0,Type 2 diabetes mellitus without complication,2019-07-31,,lisinopril,557
+18,0,Type 2 diabetes mellitus without complication,2019-07-31,,metformin,557
+18,0,Type 2 diabetes mellitus without complication,2019-07-31,,sildenafil,557
+18,0,Vitamin D deficiency,2019-07-31,,lisinopril,557
+18,0,Vitamin D deficiency,2019-07-31,,metformin,557
+18,0,Vitamin D deficiency,2019-07-31,,sildenafil,557
+18,0,Hyperlipidemia,2019-07-31,,lisinopril,557
+18,0,Hyperlipidemia,2019-07-31,,metformin,557
+18,0,Hyperlipidemia,2019-07-31,,sildenafil,557
+18,0,Erectile dysfunction,2019-07-31,,lisinopril,557
+18,0,Erectile dysfunction,2019-07-31,,metformin,557
+18,0,Erectile dysfunction,2019-07-31,,sildenafil,557
+18,90,,2019-10-29,,glucose oxidase,557
+18,90,,2019-10-29,,amlodipine,557
+18,90,,2019-10-29,,atorvastatin,557
+18,151,,2019-12-29,,lisinopril,557
+18,231,,2020-03-18,,metformin,557
+18,239,,2020-03-26,,metformin,557
+18,353,Hyperlipidemia,2020-07-18,,glucose oxidase,557
+18,353,Hyperlipidemia,2020-07-18,,sildenafil,557
+18,353,Obstructive sleep apnea syndrome,2020-07-18,,glucose oxidase,557
+18,353,Obstructive sleep apnea syndrome,2020-07-18,,sildenafil,557
+18,353,Type 2 diabetes mellitus without complication,2020-07-18,,glucose oxidase,557
+18,353,Type 2 diabetes mellitus without complication,2020-07-18,,sildenafil,557
+18,353,Essential hypertension,2020-07-18,,glucose oxidase,557
+18,353,Essential hypertension,2020-07-18,,sildenafil,557
+18,353,Morbid obesity,2020-07-18,,glucose oxidase,557
+18,353,Morbid obesity,2020-07-18,,sildenafil,557
+18,353,Vitamin D deficiency,2020-07-18,,glucose oxidase,557
+18,353,Vitamin D deficiency,2020-07-18,,sildenafil,557
+18,353,Erectile dysfunction,2020-07-18,,glucose oxidase,557
+18,353,Erectile dysfunction,2020-07-18,,sildenafil,557
+18,354,,2020-07-19,,"hepatitis B vaccine, adult dosage",557
+18,355,,2020-07-20,,vitamin D,557
+18,355,,2020-07-20,,cholecalciferol,557
+18,355,,2020-07-20,,ergocalciferol,557
+18,409,Essential hypertension,2020-09-12,,semaglutide,557
+18,409,Vitamin D deficiency,2020-09-12,,semaglutide,557
+18,409,Morbid obesity,2020-09-12,,semaglutide,557
+18,409,Type 2 diabetes mellitus without complication,2020-09-12,,semaglutide,557
+18,409,Obstructive sleep apnea syndrome,2020-09-12,,semaglutide,557
+18,451,Obstructive sleep apnea syndrome,2020-10-24,,semaglutide,557
+18,451,Vitamin D deficiency,2020-10-24,,semaglutide,557
+18,451,Type 2 diabetes mellitus without complication,2020-10-24,,semaglutide,557
+18,451,Essential hypertension,2020-10-24,,semaglutide,557
+18,500,Type 2 diabetes mellitus without complication,2020-12-12,,,557
+18,500,Obstructive sleep apnea syndrome,2020-12-12,,,557
+18,500,Vitamin D deficiency,2020-12-12,,,557
+18,500,Essential hypertension,2020-12-12,,,557
+18,500,Morbid obesity,2020-12-12,,,557
+18,501,,2020-12-13,,vitamin D3,557
+18,501,,2020-12-13,,cholecalciferol,557
+18,551,Bleeding from nose,2021-02-01,,,557
+18,553,Bleeding from nose,2021-02-03,,lidocaine,557
+18,553,Bleeding from nose,2021-02-03,,oxymetazoline,557
+18,553,Bleeding from nose,2021-02-03,,cephalexin,557
+18,553,Bleeding from nose,2021-02-03,,tranexamic acid,557
+18,557,Disorder of nasal cavity,2021-02-07,,lisinopril,557
+18,557,Disorder of nasal cavity,2021-02-07,,atorvastatin,557
+18,557,Disorder of nasal cavity,2021-02-07,,sildenafil,557
+18,557,Disorder of nasal cavity,2021-02-07,,metformin,557
+18,557,Disorder of nasal cavity,2021-02-07,,amlodipine,557
+18,557,Disorder of nasal cavity,2021-02-07,,sodium chloride,557
+18,557,COVID-19,2021-02-07,,lisinopril,557
+18,557,COVID-19,2021-02-07,,atorvastatin,557
+18,557,COVID-19,2021-02-07,,sildenafil,557
+18,557,COVID-19,2021-02-07,,metformin,557
+18,557,COVID-19,2021-02-07,,amlodipine,557
+18,557,COVID-19,2021-02-07,,sodium chloride,557
+18,557,Obstructive sleep apnea syndrome,2021-02-07,,lisinopril,557
+18,557,Obstructive sleep apnea syndrome,2021-02-07,,atorvastatin,557
+18,557,Obstructive sleep apnea syndrome,2021-02-07,,sildenafil,557
+18,557,Obstructive sleep apnea syndrome,2021-02-07,,metformin,557
+18,557,Obstructive sleep apnea syndrome,2021-02-07,,amlodipine,557
+18,557,Obstructive sleep apnea syndrome,2021-02-07,,sodium chloride,557
+18,557,Hyperlipidemia,2021-02-07,,lisinopril,557
+18,557,Hyperlipidemia,2021-02-07,,atorvastatin,557
+18,557,Hyperlipidemia,2021-02-07,,sildenafil,557
+18,557,Hyperlipidemia,2021-02-07,,metformin,557
+18,557,Hyperlipidemia,2021-02-07,,amlodipine,557
+18,557,Hyperlipidemia,2021-02-07,,sodium chloride,557
+18,557,Essential hypertension,2021-02-07,,lisinopril,557
+18,557,Essential hypertension,2021-02-07,,atorvastatin,557
+18,557,Essential hypertension,2021-02-07,,sildenafil,557
+18,557,Essential hypertension,2021-02-07,,metformin,557
+18,557,Essential hypertension,2021-02-07,,amlodipine,557
+18,557,Essential hypertension,2021-02-07,,sodium chloride,557
+18,557,Bleeding from nose,2021-02-07,,lisinopril,557
+18,557,Bleeding from nose,2021-02-07,,atorvastatin,557
+18,557,Bleeding from nose,2021-02-07,,sildenafil,557
+18,557,Bleeding from nose,2021-02-07,,metformin,557
+18,557,Bleeding from nose,2021-02-07,,amlodipine,557
+18,557,Bleeding from nose,2021-02-07,,sodium chloride,557
+18,557,Type 2 diabetes mellitus without complication,2021-02-07,,lisinopril,557
+18,557,Type 2 diabetes mellitus without complication,2021-02-07,,atorvastatin,557
+18,557,Type 2 diabetes mellitus without complication,2021-02-07,,sildenafil,557
+18,557,Type 2 diabetes mellitus without complication,2021-02-07,,metformin,557
+18,557,Type 2 diabetes mellitus without complication,2021-02-07,,amlodipine,557
+18,557,Type 2 diabetes mellitus without complication,2021-02-07,,sodium chloride,557
+18,557,Erectile dysfunction,2021-02-07,,lisinopril,557
+18,557,Erectile dysfunction,2021-02-07,,atorvastatin,557
+18,557,Erectile dysfunction,2021-02-07,,sildenafil,557
+18,557,Erectile dysfunction,2021-02-07,,metformin,557
+18,557,Erectile dysfunction,2021-02-07,,amlodipine,557
+18,557,Erectile dysfunction,2021-02-07,,sodium chloride,557
+19,0,First trimester bleeding,2019-04-26,,,753
+19,0,Subchorionic hematoma,2019-04-26,,,753
+19,0,Disorder of amniotic cavity AND/OR membrane,2019-04-26,,,753
+19,0,"Gestation period, 12 weeks",2019-04-26,,,753
+19,0,Early stage of pregnancy,2019-04-26,,,753
+19,0,First trimester pregnancy,2019-04-26,,,753
+19,0,Nicotine dependence,2019-04-26,,,753
+19,0,Antepartum hemorrhage,2019-04-26,,,753
+19,0,Hemorrhagic complication of pregnancy,2019-04-26,,,753
+19,14,Hemorrhagic complication of pregnancy,2019-05-10,,,753
+19,14,First trimester bleeding,2019-05-10,,,753
+19,14,Second trimester pregnancy,2019-05-10,,,753
+19,14,Early stage of pregnancy,2019-05-10,,,753
+19,14,"Gestation period, 15 weeks",2019-05-10,,,753
+19,14,Antepartum hemorrhage,2019-05-10,,,753
+19,14,Second trimester bleeding,2019-05-10,,,753
+19,93,Fetal condition affecting obstetrical care of mother,2019-07-28,,,753
+19,93,Finding related to pregnancy,2019-07-28,,,753
+19,93,Reduced fetal movement,2019-07-28,,,753
+19,167,Intrauterine pregnancy,2019-10-10,,,753
+19,167,Normal pregnancy,2019-10-10,,,753
+19,167,Bipolar disorder,2019-10-10,,,753
+19,167,Bipolar I disorder,2019-10-10,,,753
+19,187,Disorder caused by alcohol,2019-10-30,,oxytocin,753
+19,187,Disorder caused by alcohol,2019-10-30,,1 ML butorphanol tartrate 1 MG/ML Injection,753
+19,187,Disorder caused by alcohol,2019-10-30,,30 ML mepivacaine hydrochloride 10 MG/ML Injection,753
+19,187,Disorder caused by alcohol,2019-10-30,,zolpidem tartrate 5 MG Oral Tablet [Stilnoct],753
+19,187,Disorder caused by alcohol,2019-10-30,,cefazolin 2000 MG Injection,753
+19,187,Disorder caused by alcohol,2019-10-30,,acetaminophen 650 MG Rectal Suppository,753
+19,187,Disorder caused by alcohol,2019-10-30,,calcium chloride 0.001 MEQ/ML / glucose 50 MG/ML / potassium chloride 0.004 MEQ/ML / sodium chloride 0.103 MEQ/ML / sodium lactate 0.028 MEQ/ML Injectable Solution,753
+19,187,Disorder caused by alcohol,2019-10-30,,acetaminophen 325 MG Oral Tablet [Aceta],753
+19,187,Disorder caused by alcohol,2019-10-30,,dinoprostone 10 MG Drug Implant,753
+19,187,Obesity in mother complicating childbirth,2019-10-30,,oxytocin,753
+19,187,Obesity in mother complicating childbirth,2019-10-30,,1 ML butorphanol tartrate 1 MG/ML Injection,753
+19,187,Obesity in mother complicating childbirth,2019-10-30,,30 ML mepivacaine hydrochloride 10 MG/ML Injection,753
+19,187,Obesity in mother complicating childbirth,2019-10-30,,zolpidem tartrate 5 MG Oral Tablet [Stilnoct],753
+19,187,Obesity in mother complicating childbirth,2019-10-30,,cefazolin 2000 MG Injection,753
+19,187,Obesity in mother complicating childbirth,2019-10-30,,acetaminophen 650 MG Rectal Suppository,753
+19,187,Obesity in mother complicating childbirth,2019-10-30,,calcium chloride 0.001 MEQ/ML / glucose 50 MG/ML / potassium chloride 0.004 MEQ/ML / sodium chloride 0.103 MEQ/ML / sodium lactate 0.028 MEQ/ML Injectable Solution,753
+19,187,Obesity in mother complicating childbirth,2019-10-30,,acetaminophen 325 MG Oral Tablet [Aceta],753
+19,187,Obesity in mother complicating childbirth,2019-10-30,,dinoprostone 10 MG Drug Implant,753
+19,187,Anxiety disorder,2019-10-30,,oxytocin,753
+19,187,Anxiety disorder,2019-10-30,,1 ML butorphanol tartrate 1 MG/ML Injection,753
+19,187,Anxiety disorder,2019-10-30,,30 ML mepivacaine hydrochloride 10 MG/ML Injection,753
+19,187,Anxiety disorder,2019-10-30,,zolpidem tartrate 5 MG Oral Tablet [Stilnoct],753
+19,187,Anxiety disorder,2019-10-30,,cefazolin 2000 MG Injection,753
+19,187,Anxiety disorder,2019-10-30,,acetaminophen 650 MG Rectal Suppository,753
+19,187,Anxiety disorder,2019-10-30,,calcium chloride 0.001 MEQ/ML / glucose 50 MG/ML / potassium chloride 0.004 MEQ/ML / sodium chloride 0.103 MEQ/ML / sodium lactate 0.028 MEQ/ML Injectable Solution,753
+19,187,Anxiety disorder,2019-10-30,,acetaminophen 325 MG Oral Tablet [Aceta],753
+19,187,Anxiety disorder,2019-10-30,,dinoprostone 10 MG Drug Implant,753
+19,187,Complication occurring during labor and delivery,2019-10-30,,oxytocin,753
+19,187,Complication occurring during labor and delivery,2019-10-30,,1 ML butorphanol tartrate 1 MG/ML Injection,753
+19,187,Complication occurring during labor and delivery,2019-10-30,,30 ML mepivacaine hydrochloride 10 MG/ML Injection,753
+19,187,Complication occurring during labor and delivery,2019-10-30,,zolpidem tartrate 5 MG Oral Tablet [Stilnoct],753
+19,187,Complication occurring during labor and delivery,2019-10-30,,cefazolin 2000 MG Injection,753
+19,187,Complication occurring during labor and delivery,2019-10-30,,acetaminophen 650 MG Rectal Suppository,753
+19,187,Complication occurring during labor and delivery,2019-10-30,,calcium chloride 0.001 MEQ/ML / glucose 50 MG/ML / potassium chloride 0.004 MEQ/ML / sodium chloride 0.103 MEQ/ML / sodium lactate 0.028 MEQ/ML Injectable Solution,753
+19,187,Complication occurring during labor and delivery,2019-10-30,,acetaminophen 325 MG Oral Tablet [Aceta],753
+19,187,Complication occurring during labor and delivery,2019-10-30,,dinoprostone 10 MG Drug Implant,753
+19,187,Constipation,2019-10-30,,oxytocin,753
+19,187,Constipation,2019-10-30,,1 ML butorphanol tartrate 1 MG/ML Injection,753
+19,187,Constipation,2019-10-30,,30 ML mepivacaine hydrochloride 10 MG/ML Injection,753
+19,187,Constipation,2019-10-30,,zolpidem tartrate 5 MG Oral Tablet [Stilnoct],753
+19,187,Constipation,2019-10-30,,cefazolin 2000 MG Injection,753
+19,187,Constipation,2019-10-30,,acetaminophen 650 MG Rectal Suppository,753
+19,187,Constipation,2019-10-30,,calcium chloride 0.001 MEQ/ML / glucose 50 MG/ML / potassium chloride 0.004 MEQ/ML / sodium chloride 0.103 MEQ/ML / sodium lactate 0.028 MEQ/ML Injectable Solution,753
+19,187,Constipation,2019-10-30,,acetaminophen 325 MG Oral Tablet [Aceta],753
+19,187,Constipation,2019-10-30,,dinoprostone 10 MG Drug Implant,753
+19,187,Nondependent cocaine abuse in remission,2019-10-30,,oxytocin,753
+19,187,Nondependent cocaine abuse in remission,2019-10-30,,1 ML butorphanol tartrate 1 MG/ML Injection,753
+19,187,Nondependent cocaine abuse in remission,2019-10-30,,30 ML mepivacaine hydrochloride 10 MG/ML Injection,753
+19,187,Nondependent cocaine abuse in remission,2019-10-30,,zolpidem tartrate 5 MG Oral Tablet [Stilnoct],753
+19,187,Nondependent cocaine abuse in remission,2019-10-30,,cefazolin 2000 MG Injection,753
+19,187,Nondependent cocaine abuse in remission,2019-10-30,,acetaminophen 650 MG Rectal Suppository,753
+19,187,Nondependent cocaine abuse in remission,2019-10-30,,calcium chloride 0.001 MEQ/ML / glucose 50 MG/ML / potassium chloride 0.004 MEQ/ML / sodium chloride 0.103 MEQ/ML / sodium lactate 0.028 MEQ/ML Injectable Solution,753
+19,187,Nondependent cocaine abuse in remission,2019-10-30,,acetaminophen 325 MG Oral Tablet [Aceta],753
+19,187,Nondependent cocaine abuse in remission,2019-10-30,,dinoprostone 10 MG Drug Implant,753
+19,187,Baby overdue,2019-10-30,,oxytocin,753
+19,187,Baby overdue,2019-10-30,,1 ML butorphanol tartrate 1 MG/ML Injection,753
+19,187,Baby overdue,2019-10-30,,30 ML mepivacaine hydrochloride 10 MG/ML Injection,753
+19,187,Baby overdue,2019-10-30,,zolpidem tartrate 5 MG Oral Tablet [Stilnoct],753
+19,187,Baby overdue,2019-10-30,,cefazolin 2000 MG Injection,753
+19,187,Baby overdue,2019-10-30,,acetaminophen 650 MG Rectal Suppository,753
+19,187,Baby overdue,2019-10-30,,calcium chloride 0.001 MEQ/ML / glucose 50 MG/ML / potassium chloride 0.004 MEQ/ML / sodium chloride 0.103 MEQ/ML / sodium lactate 0.028 MEQ/ML Injectable Solution,753
+19,187,Baby overdue,2019-10-30,,acetaminophen 325 MG Oral Tablet [Aceta],753
+19,187,Baby overdue,2019-10-30,,dinoprostone 10 MG Drug Implant,753
+19,187,"Gestation period, 40 weeks",2019-10-30,,oxytocin,753
+19,187,"Gestation period, 40 weeks",2019-10-30,,1 ML butorphanol tartrate 1 MG/ML Injection,753
+19,187,"Gestation period, 40 weeks",2019-10-30,,30 ML mepivacaine hydrochloride 10 MG/ML Injection,753
+19,187,"Gestation period, 40 weeks",2019-10-30,,zolpidem tartrate 5 MG Oral Tablet [Stilnoct],753
+19,187,"Gestation period, 40 weeks",2019-10-30,,cefazolin 2000 MG Injection,753
+19,187,"Gestation period, 40 weeks",2019-10-30,,acetaminophen 650 MG Rectal Suppository,753
+19,187,"Gestation period, 40 weeks",2019-10-30,,calcium chloride 0.001 MEQ/ML / glucose 50 MG/ML / potassium chloride 0.004 MEQ/ML / sodium chloride 0.103 MEQ/ML / sodium lactate 0.028 MEQ/ML Injectable Solution,753
+19,187,"Gestation period, 40 weeks",2019-10-30,,acetaminophen 325 MG Oral Tablet [Aceta],753
+19,187,"Gestation period, 40 weeks",2019-10-30,,dinoprostone 10 MG Drug Implant,753
+19,187,Obesity,2019-10-30,,oxytocin,753
+19,187,Obesity,2019-10-30,,1 ML butorphanol tartrate 1 MG/ML Injection,753
+19,187,Obesity,2019-10-30,,30 ML mepivacaine hydrochloride 10 MG/ML Injection,753
+19,187,Obesity,2019-10-30,,zolpidem tartrate 5 MG Oral Tablet [Stilnoct],753
+19,187,Obesity,2019-10-30,,cefazolin 2000 MG Injection,753
+19,187,Obesity,2019-10-30,,acetaminophen 650 MG Rectal Suppository,753
+19,187,Obesity,2019-10-30,,calcium chloride 0.001 MEQ/ML / glucose 50 MG/ML / potassium chloride 0.004 MEQ/ML / sodium chloride 0.103 MEQ/ML / sodium lactate 0.028 MEQ/ML Injectable Solution,753
+19,187,Obesity,2019-10-30,,acetaminophen 325 MG Oral Tablet [Aceta],753
+19,187,Obesity,2019-10-30,,dinoprostone 10 MG Drug Implant,753
+19,187,Disorder of pregnancy,2019-10-30,,oxytocin,753
+19,187,Disorder of pregnancy,2019-10-30,,1 ML butorphanol tartrate 1 MG/ML Injection,753
+19,187,Disorder of pregnancy,2019-10-30,,30 ML mepivacaine hydrochloride 10 MG/ML Injection,753
+19,187,Disorder of pregnancy,2019-10-30,,zolpidem tartrate 5 MG Oral Tablet [Stilnoct],753
+19,187,Disorder of pregnancy,2019-10-30,,cefazolin 2000 MG Injection,753
+19,187,Disorder of pregnancy,2019-10-30,,acetaminophen 650 MG Rectal Suppository,753
+19,187,Disorder of pregnancy,2019-10-30,,calcium chloride 0.001 MEQ/ML / glucose 50 MG/ML / potassium chloride 0.004 MEQ/ML / sodium chloride 0.103 MEQ/ML / sodium lactate 0.028 MEQ/ML Injectable Solution,753
+19,187,Disorder of pregnancy,2019-10-30,,acetaminophen 325 MG Oral Tablet [Aceta],753
+19,187,Disorder of pregnancy,2019-10-30,,dinoprostone 10 MG Drug Implant,753
+19,187,Nondependent cannabis abuse in remission,2019-10-30,,oxytocin,753
+19,187,Nondependent cannabis abuse in remission,2019-10-30,,1 ML butorphanol tartrate 1 MG/ML Injection,753
+19,187,Nondependent cannabis abuse in remission,2019-10-30,,30 ML mepivacaine hydrochloride 10 MG/ML Injection,753
+19,187,Nondependent cannabis abuse in remission,2019-10-30,,zolpidem tartrate 5 MG Oral Tablet [Stilnoct],753
+19,187,Nondependent cannabis abuse in remission,2019-10-30,,cefazolin 2000 MG Injection,753
+19,187,Nondependent cannabis abuse in remission,2019-10-30,,acetaminophen 650 MG Rectal Suppository,753
+19,187,Nondependent cannabis abuse in remission,2019-10-30,,calcium chloride 0.001 MEQ/ML / glucose 50 MG/ML / potassium chloride 0.004 MEQ/ML / sodium chloride 0.103 MEQ/ML / sodium lactate 0.028 MEQ/ML Injectable Solution,753
+19,187,Nondependent cannabis abuse in remission,2019-10-30,,acetaminophen 325 MG Oral Tablet [Aceta],753
+19,187,Nondependent cannabis abuse in remission,2019-10-30,,dinoprostone 10 MG Drug Implant,753
+19,187,Primary uterine inertia,2019-10-30,,oxytocin,753
+19,187,Primary uterine inertia,2019-10-30,,1 ML butorphanol tartrate 1 MG/ML Injection,753
+19,187,Primary uterine inertia,2019-10-30,,30 ML mepivacaine hydrochloride 10 MG/ML Injection,753
+19,187,Primary uterine inertia,2019-10-30,,zolpidem tartrate 5 MG Oral Tablet [Stilnoct],753
+19,187,Primary uterine inertia,2019-10-30,,cefazolin 2000 MG Injection,753
+19,187,Primary uterine inertia,2019-10-30,,acetaminophen 650 MG Rectal Suppository,753
+19,187,Primary uterine inertia,2019-10-30,,calcium chloride 0.001 MEQ/ML / glucose 50 MG/ML / potassium chloride 0.004 MEQ/ML / sodium chloride 0.103 MEQ/ML / sodium lactate 0.028 MEQ/ML Injectable Solution,753
+19,187,Primary uterine inertia,2019-10-30,,acetaminophen 325 MG Oral Tablet [Aceta],753
+19,187,Primary uterine inertia,2019-10-30,,dinoprostone 10 MG Drug Implant,753
+19,187,Post-term pregnancy of 40 to 42 weeks,2019-10-30,,oxytocin,753
+19,187,Post-term pregnancy of 40 to 42 weeks,2019-10-30,,1 ML butorphanol tartrate 1 MG/ML Injection,753
+19,187,Post-term pregnancy of 40 to 42 weeks,2019-10-30,,30 ML mepivacaine hydrochloride 10 MG/ML Injection,753
+19,187,Post-term pregnancy of 40 to 42 weeks,2019-10-30,,zolpidem tartrate 5 MG Oral Tablet [Stilnoct],753
+19,187,Post-term pregnancy of 40 to 42 weeks,2019-10-30,,cefazolin 2000 MG Injection,753
+19,187,Post-term pregnancy of 40 to 42 weeks,2019-10-30,,acetaminophen 650 MG Rectal Suppository,753
+19,187,Post-term pregnancy of 40 to 42 weeks,2019-10-30,,calcium chloride 0.001 MEQ/ML / glucose 50 MG/ML / potassium chloride 0.004 MEQ/ML / sodium chloride 0.103 MEQ/ML / sodium lactate 0.028 MEQ/ML Injectable Solution,753
+19,187,Post-term pregnancy of 40 to 42 weeks,2019-10-30,,acetaminophen 325 MG Oral Tablet [Aceta],753
+19,187,Post-term pregnancy of 40 to 42 weeks,2019-10-30,,dinoprostone 10 MG Drug Implant,753
+19,187,Post-term pregnancy,2019-10-30,,oxytocin,753
+19,187,Post-term pregnancy,2019-10-30,,1 ML butorphanol tartrate 1 MG/ML Injection,753
+19,187,Post-term pregnancy,2019-10-30,,30 ML mepivacaine hydrochloride 10 MG/ML Injection,753
+19,187,Post-term pregnancy,2019-10-30,,zolpidem tartrate 5 MG Oral Tablet [Stilnoct],753
+19,187,Post-term pregnancy,2019-10-30,,cefazolin 2000 MG Injection,753
+19,187,Post-term pregnancy,2019-10-30,,acetaminophen 650 MG Rectal Suppository,753
+19,187,Post-term pregnancy,2019-10-30,,calcium chloride 0.001 MEQ/ML / glucose 50 MG/ML / potassium chloride 0.004 MEQ/ML / sodium chloride 0.103 MEQ/ML / sodium lactate 0.028 MEQ/ML Injectable Solution,753
+19,187,Post-term pregnancy,2019-10-30,,acetaminophen 325 MG Oral Tablet [Aceta],753
+19,187,Post-term pregnancy,2019-10-30,,dinoprostone 10 MG Drug Implant,753
+19,187,Nicotine dependence,2019-10-30,,oxytocin,753
+19,187,Nicotine dependence,2019-10-30,,1 ML butorphanol tartrate 1 MG/ML Injection,753
+19,187,Nicotine dependence,2019-10-30,,30 ML mepivacaine hydrochloride 10 MG/ML Injection,753
+19,187,Nicotine dependence,2019-10-30,,zolpidem tartrate 5 MG Oral Tablet [Stilnoct],753
+19,187,Nicotine dependence,2019-10-30,,cefazolin 2000 MG Injection,753
+19,187,Nicotine dependence,2019-10-30,,acetaminophen 650 MG Rectal Suppository,753
+19,187,Nicotine dependence,2019-10-30,,calcium chloride 0.001 MEQ/ML / glucose 50 MG/ML / potassium chloride 0.004 MEQ/ML / sodium chloride 0.103 MEQ/ML / sodium lactate 0.028 MEQ/ML Injectable Solution,753
+19,187,Nicotine dependence,2019-10-30,,acetaminophen 325 MG Oral Tablet [Aceta],753
+19,187,Nicotine dependence,2019-10-30,,dinoprostone 10 MG Drug Implant,753
+19,187,"Complication of pregnancy, childbirth and/or puerperium",2019-10-30,,oxytocin,753
+19,187,"Complication of pregnancy, childbirth and/or puerperium",2019-10-30,,1 ML butorphanol tartrate 1 MG/ML Injection,753
+19,187,"Complication of pregnancy, childbirth and/or puerperium",2019-10-30,,30 ML mepivacaine hydrochloride 10 MG/ML Injection,753
+19,187,"Complication of pregnancy, childbirth and/or puerperium",2019-10-30,,zolpidem tartrate 5 MG Oral Tablet [Stilnoct],753
+19,187,"Complication of pregnancy, childbirth and/or puerperium",2019-10-30,,cefazolin 2000 MG Injection,753
+19,187,"Complication of pregnancy, childbirth and/or puerperium",2019-10-30,,acetaminophen 650 MG Rectal Suppository,753
+19,187,"Complication of pregnancy, childbirth and/or puerperium",2019-10-30,,calcium chloride 0.001 MEQ/ML / glucose 50 MG/ML / potassium chloride 0.004 MEQ/ML / sodium chloride 0.103 MEQ/ML / sodium lactate 0.028 MEQ/ML Injectable Solution,753
+19,187,"Complication of pregnancy, childbirth and/or puerperium",2019-10-30,,acetaminophen 325 MG Oral Tablet [Aceta],753
+19,187,"Complication of pregnancy, childbirth and/or puerperium",2019-10-30,,dinoprostone 10 MG Drug Implant,753
+19,187,"Mental disorders during pregnancy, childbirth and the puerperium",2019-10-30,,oxytocin,753
+19,187,"Mental disorders during pregnancy, childbirth and the puerperium",2019-10-30,,1 ML butorphanol tartrate 1 MG/ML Injection,753
+19,187,"Mental disorders during pregnancy, childbirth and the puerperium",2019-10-30,,30 ML mepivacaine hydrochloride 10 MG/ML Injection,753
+19,187,"Mental disorders during pregnancy, childbirth and the puerperium",2019-10-30,,zolpidem tartrate 5 MG Oral Tablet [Stilnoct],753
+19,187,"Mental disorders during pregnancy, childbirth and the puerperium",2019-10-30,,cefazolin 2000 MG Injection,753
+19,187,"Mental disorders during pregnancy, childbirth and the puerperium",2019-10-30,,acetaminophen 650 MG Rectal Suppository,753
+19,187,"Mental disorders during pregnancy, childbirth and the puerperium",2019-10-30,,calcium chloride 0.001 MEQ/ML / glucose 50 MG/ML / potassium chloride 0.004 MEQ/ML / sodium chloride 0.103 MEQ/ML / sodium lactate 0.028 MEQ/ML Injectable Solution,753
+19,187,"Mental disorders during pregnancy, childbirth and the puerperium",2019-10-30,,acetaminophen 325 MG Oral Tablet [Aceta],753
+19,187,"Mental disorders during pregnancy, childbirth and the puerperium",2019-10-30,,dinoprostone 10 MG Drug Implant,753
+19,187,Single live birth,2019-10-30,,oxytocin,753
+19,187,Single live birth,2019-10-30,,1 ML butorphanol tartrate 1 MG/ML Injection,753
+19,187,Single live birth,2019-10-30,,30 ML mepivacaine hydrochloride 10 MG/ML Injection,753
+19,187,Single live birth,2019-10-30,,zolpidem tartrate 5 MG Oral Tablet [Stilnoct],753
+19,187,Single live birth,2019-10-30,,cefazolin 2000 MG Injection,753
+19,187,Single live birth,2019-10-30,,acetaminophen 650 MG Rectal Suppository,753
+19,187,Single live birth,2019-10-30,,calcium chloride 0.001 MEQ/ML / glucose 50 MG/ML / potassium chloride 0.004 MEQ/ML / sodium chloride 0.103 MEQ/ML / sodium lactate 0.028 MEQ/ML Injectable Solution,753
+19,187,Single live birth,2019-10-30,,acetaminophen 325 MG Oral Tablet [Aceta],753
+19,187,Single live birth,2019-10-30,,dinoprostone 10 MG Drug Implant,753
+19,188,,2019-10-31,,dinoprostone 10 MG Drug Implant,753
+19,188,,2019-10-31,,calcium chloride 0.001 MEQ/ML / glucose 50 MG/ML / potassium chloride 0.004 MEQ/ML / sodium chloride 0.103 MEQ/ML / sodium lactate 0.028 MEQ/ML Injectable Solution,753
+19,188,,2019-10-31,,calcium chloride 0.0014 MEQ/ML / potassium chloride 0.004 MEQ/ML / sodium chloride 0.103 MEQ/ML / sodium lactate 0.028 MEQ/ML Injectable Solution,753
+19,188,,2019-10-31,,oxytocin,753
+19,189,,2019-11-01,,dinoprostone 10 MG Drug Implant,753
+19,189,,2019-11-01,,prochlorperazine 25 MG Rectal Suppository,753
+19,189,,2019-11-01,,diphenhydramine hydrochloride 50 MG/ML Injectable Solution,753
+19,189,,2019-11-01,,bupivacaine,753
+19,189,,2019-11-01,,fentanyl,753
+19,189,,2019-11-01,,ondansetron 4 MG Disintegrating Oral Tablet,753
+19,189,,2019-11-01,,1 ML butorphanol tartrate 1 MG/ML Injection,753
+19,189,,2019-11-01,,10 ML epinephrine 0.005 MG/ML / lidocaine hydrochloride 15 MG/ML Injection,753
+19,189,,2019-11-01,,oxytocin,753
+19,189,,2019-11-01,,2 ML ondansetron 2 MG/ML Injection,753
+19,189,,2019-11-01,,calcium chloride 0.0014 MEQ/ML / potassium chloride 0.004 MEQ/ML / sodium chloride 0.103 MEQ/ML / sodium lactate 0.028 MEQ/ML Injectable Solution,753
+19,189,,2019-11-01,,2 ML metoclopramide 5 MG/ML Injection,753
+19,189,,2019-11-01,,calcium chloride 0.001 MEQ/ML / glucose 50 MG/ML / potassium chloride 0.004 MEQ/ML / sodium chloride 0.103 MEQ/ML / sodium lactate 0.028 MEQ/ML Injectable Solution,753
+19,190,,2019-11-02,,nalbuphine hydrochloride 20 MG/ML Injectable Solution,753
+19,190,,2019-11-02,,simethicone 80 MG Chewable Tablet [Anti-Gas-80],753
+19,190,,2019-11-02,,diphenhydramine hydrochloride 25 MG Oral Tablet,753
+19,190,,2019-11-02,,2 ML fentanyl 0.05 MG/ML Injection,753
+19,190,,2019-11-02,,cefazolin 2000 MG Injection,753
+19,190,,2019-11-02,,sodium chloride 9 MG/ML Injection,753
+19,190,,2019-11-02,,citric acid 66.8 MG/ML / sodium citrate 100 MG/ML Oral Solution,753
+19,190,,2019-11-02,,oxycodone hydrochloride 5 MG Oral Tablet [M-Oxy],753
+19,190,,2019-11-02,,2 ML prochlorperazine 5 MG/ML Injection,753
+19,190,,2019-11-02,,sodium chloride 9 MG/ML Injectable Solution,753
+19,190,,2019-11-02,,72 HR scopolamine 0.0139 MG/HR Transdermal System,753
+19,190,,2019-11-02,,docusate sodium 100 MG Oral Capsule,753
+19,190,,2019-11-02,,dexamethasone phosphate 4 MG/ML Injectable Solution,753
+19,190,,2019-11-02,,folic acid,753
+19,190,,2019-11-02,,"0.5 ML Bordetella pertussis filamentous hemagglutinin vaccine, inactivated 0.01 MG/ML / Bordetella pertussis fimbriae 2/3 vaccine, inactivated 0.01 MG/ML / Bordetella pertussis pertactin vaccine, inactivated 0.006 MG/ML / Bordetella pertussis toxoid va...",753
+19,190,,2019-11-02,,0.5 ML hydromorphone hydrochloride 1 MG/ML Prefilled Syringe,753
+19,190,,2019-11-02,,magnesium hydroxide 240 MG/ML Oral Suspension,753
+19,190,,2019-11-02,,1 ML butorphanol tartrate 1 MG/ML Injection,753
+19,190,,2019-11-02,,10 ML morphine sulfate 1 MG/ML Injection [Duramorph],753
+19,190,,2019-11-02,,2 ML metoclopramide 5 MG/ML Injection,753
+19,190,,2019-11-02,,"0.5 ML measles virus vaccine live, Enders' attenuated Edmonston strain 2000 UNT/ML / mumps virus vaccine live, Jeryl Lynn strain 25000 UNT/ML / rubella virus vaccine live (Wistar RA 27-3 strain) 2000 UNT/ML Injection",753
+19,190,,2019-11-02,,1 ML ketorolac tromethamine 30 MG/ML Injection,753
+19,190,,2019-11-02,,bisacodyl 10 MG Rectal Suppository,753
+19,190,,2019-11-02,,ondansetron 4 MG Disintegrating Oral Tablet,753
+19,190,,2019-11-02,,2 ML ondansetron 2 MG/ML Injection,753
+19,190,,2019-11-02,,fentanyl,753
+19,190,,2019-11-02,,2 ML famotidine 10 MG/ML Injection,753
+19,190,,2019-11-02,,misoprostol 0.2 MG Oral Tablet [Cytotec],753
+19,190,,2019-11-02,,diphenhydramine hydrochloride 50 MG/ML Injectable Solution,753
+19,190,,2019-11-02,,prochlorperazine 25 MG Rectal Suppository,753
+19,190,,2019-11-02,,20 ML epinephrine 0.005 MG/ML / lidocaine hydrochloride 20 MG/ML Injection,753
+19,190,,2019-11-02,,calcium chloride 0.0014 MEQ/ML / potassium chloride 0.004 MEQ/ML / sodium chloride 0.103 MEQ/ML / sodium lactate 0.028 MEQ/ML Injectable Solution,753
+19,190,,2019-11-02,,ibuprofen 600 MG Oral Tablet [Arthrofen 600],753
+19,190,,2019-11-02,,acetaminophen 325 MG Oral Tablet [Aceta],753
+19,190,,2019-11-02,,oxytocin,753
+19,191,Drug abuse in remission,2019-11-03,,folic acid,753
+19,191,Drug abuse in remission,2019-11-03,,oxycodone hydrochloride 5 MG Oral Tablet [M-Oxy],753
+19,191,Drug abuse in remission,2019-11-03,,docusate sodium 100 MG Oral Capsule,753
+19,191,Drug abuse in remission,2019-11-03,,oxytocin,753
+19,191,Drug abuse in remission,2019-11-03,,risperidone 1 MG Oral Tablet [Risperdal],753
+19,191,Drug abuse in remission,2019-11-03,,acetaminophen 325 MG Oral Tablet [Aceta],753
+19,191,Drug abuse in remission,2019-11-03,,ibuprofen 600 MG Oral Tablet [Arthrofen 600],753
+19,191,Alcohol dependence,2019-11-03,,folic acid,753
+19,191,Alcohol dependence,2019-11-03,,oxycodone hydrochloride 5 MG Oral Tablet [M-Oxy],753
+19,191,Alcohol dependence,2019-11-03,,docusate sodium 100 MG Oral Capsule,753
+19,191,Alcohol dependence,2019-11-03,,oxytocin,753
+19,191,Alcohol dependence,2019-11-03,,risperidone 1 MG Oral Tablet [Risperdal],753
+19,191,Alcohol dependence,2019-11-03,,acetaminophen 325 MG Oral Tablet [Aceta],753
+19,191,Alcohol dependence,2019-11-03,,ibuprofen 600 MG Oral Tablet [Arthrofen 600],753
+19,191,Chronic alcoholism in remission,2019-11-03,,folic acid,753
+19,191,Chronic alcoholism in remission,2019-11-03,,oxycodone hydrochloride 5 MG Oral Tablet [M-Oxy],753
+19,191,Chronic alcoholism in remission,2019-11-03,,docusate sodium 100 MG Oral Capsule,753
+19,191,Chronic alcoholism in remission,2019-11-03,,oxytocin,753
+19,191,Chronic alcoholism in remission,2019-11-03,,risperidone 1 MG Oral Tablet [Risperdal],753
+19,191,Chronic alcoholism in remission,2019-11-03,,acetaminophen 325 MG Oral Tablet [Aceta],753
+19,191,Chronic alcoholism in remission,2019-11-03,,ibuprofen 600 MG Oral Tablet [Arthrofen 600],753
+19,191,Cannabis abuse,2019-11-03,,folic acid,753
+19,191,Cannabis abuse,2019-11-03,,oxycodone hydrochloride 5 MG Oral Tablet [M-Oxy],753
+19,191,Cannabis abuse,2019-11-03,,docusate sodium 100 MG Oral Capsule,753
+19,191,Cannabis abuse,2019-11-03,,oxytocin,753
+19,191,Cannabis abuse,2019-11-03,,risperidone 1 MG Oral Tablet [Risperdal],753
+19,191,Cannabis abuse,2019-11-03,,acetaminophen 325 MG Oral Tablet [Aceta],753
+19,191,Cannabis abuse,2019-11-03,,ibuprofen 600 MG Oral Tablet [Arthrofen 600],753
+19,191,Nondependent cocaine abuse in remission,2019-11-03,,folic acid,753
+19,191,Nondependent cocaine abuse in remission,2019-11-03,,oxycodone hydrochloride 5 MG Oral Tablet [M-Oxy],753
+19,191,Nondependent cocaine abuse in remission,2019-11-03,,docusate sodium 100 MG Oral Capsule,753
+19,191,Nondependent cocaine abuse in remission,2019-11-03,,oxytocin,753
+19,191,Nondependent cocaine abuse in remission,2019-11-03,,risperidone 1 MG Oral Tablet [Risperdal],753
+19,191,Nondependent cocaine abuse in remission,2019-11-03,,acetaminophen 325 MG Oral Tablet [Aceta],753
+19,191,Nondependent cocaine abuse in remission,2019-11-03,,ibuprofen 600 MG Oral Tablet [Arthrofen 600],753
+19,191,Nondependent cannabis abuse in remission,2019-11-03,,folic acid,753
+19,191,Nondependent cannabis abuse in remission,2019-11-03,,oxycodone hydrochloride 5 MG Oral Tablet [M-Oxy],753
+19,191,Nondependent cannabis abuse in remission,2019-11-03,,docusate sodium 100 MG Oral Capsule,753
+19,191,Nondependent cannabis abuse in remission,2019-11-03,,oxytocin,753
+19,191,Nondependent cannabis abuse in remission,2019-11-03,,risperidone 1 MG Oral Tablet [Risperdal],753
+19,191,Nondependent cannabis abuse in remission,2019-11-03,,acetaminophen 325 MG Oral Tablet [Aceta],753
+19,191,Nondependent cannabis abuse in remission,2019-11-03,,ibuprofen 600 MG Oral Tablet [Arthrofen 600],753
+19,192,Alcohol dependence,2019-11-04,,docusate sodium 100 MG Oral Capsule,753
+19,192,Alcohol dependence,2019-11-04,,diphenhydramine hydrochloride 50 MG/ML Injectable Solution,753
+19,192,Alcohol dependence,2019-11-04,,oxycodone hydrochloride 5 MG Oral Tablet [M-Oxy],753
+19,192,Alcohol dependence,2019-11-04,,ondansetron 4 MG Disintegrating Oral Tablet,753
+19,192,Alcohol dependence,2019-11-04,,2 ML ondansetron 2 MG/ML Injection,753
+19,192,Alcohol dependence,2019-11-04,,folic acid,753
+19,192,Alcohol dependence,2019-11-04,,risperidone 1 MG Oral Tablet [Risperdal],753
+19,192,Alcohol dependence,2019-11-04,,2 ML metoclopramide 5 MG/ML Injection,753
+19,192,Alcohol dependence,2019-11-04,,prochlorperazine 25 MG Rectal Suppository,753
+19,192,Alcohol dependence,2019-11-04,,ibuprofen 600 MG Oral Tablet [Arthrofen 600],753
+19,192,Alcohol dependence,2019-11-04,,acetaminophen 325 MG Oral Tablet [Aceta],753
+19,192,Chronic alcoholism in remission,2019-11-04,,docusate sodium 100 MG Oral Capsule,753
+19,192,Chronic alcoholism in remission,2019-11-04,,diphenhydramine hydrochloride 50 MG/ML Injectable Solution,753
+19,192,Chronic alcoholism in remission,2019-11-04,,oxycodone hydrochloride 5 MG Oral Tablet [M-Oxy],753
+19,192,Chronic alcoholism in remission,2019-11-04,,ondansetron 4 MG Disintegrating Oral Tablet,753
+19,192,Chronic alcoholism in remission,2019-11-04,,2 ML ondansetron 2 MG/ML Injection,753
+19,192,Chronic alcoholism in remission,2019-11-04,,folic acid,753
+19,192,Chronic alcoholism in remission,2019-11-04,,risperidone 1 MG Oral Tablet [Risperdal],753
+19,192,Chronic alcoholism in remission,2019-11-04,,2 ML metoclopramide 5 MG/ML Injection,753
+19,192,Chronic alcoholism in remission,2019-11-04,,prochlorperazine 25 MG Rectal Suppository,753
+19,192,Chronic alcoholism in remission,2019-11-04,,ibuprofen 600 MG Oral Tablet [Arthrofen 600],753
+19,192,Chronic alcoholism in remission,2019-11-04,,acetaminophen 325 MG Oral Tablet [Aceta],753
+19,193,Bipolar disorder,2019-11-05,,ibuprofen 600 MG Oral Tablet [Arthrofen 600],753
+19,193,Bipolar disorder,2019-11-05,,folic acid,753
+19,193,Bipolar disorder,2019-11-05,,acetaminophen 325 MG Oral Tablet [Aceta],753
+19,193,Bipolar disorder,2019-11-05,,docusate sodium 100 MG Oral Capsule,753
+19,193,Bipolar disorder,2019-11-05,,oxycodone hydrochloride 5 MG Oral Tablet [M-Oxy],753
+19,200,Bipolar I disorder,2019-11-12,,lamotrigine 25 MG Oral Tablet [Lamictal],753
+19,200,Postpartum state,2019-11-12,,lamotrigine 25 MG Oral Tablet [Lamictal],753
+19,228,Alcohol dependence,2019-12-10,,,753
+19,228,Bipolar disorder,2019-12-10,,,753
+19,228,Chronic alcoholism in remission,2019-12-10,,,753
+19,228,Nondependent cocaine abuse in remission,2019-12-10,,,753
+19,228,Nondependent cannabis abuse in remission,2019-12-10,,,753
+19,233,Postpartum state,2019-12-15,,risperidone 2 MG Oral Tablet [Risperdal],753
+19,233,Alcohol dependence,2019-12-15,,risperidone 2 MG Oral Tablet [Risperdal],753
+19,233,Nondependent cannabis abuse in remission,2019-12-15,,risperidone 2 MG Oral Tablet [Risperdal],753
+19,233,Bipolar disorder,2019-12-15,,risperidone 2 MG Oral Tablet [Risperdal],753
+19,233,Bipolar I disorder,2019-12-15,,risperidone 2 MG Oral Tablet [Risperdal],753
+19,233,Chronic alcoholism in remission,2019-12-15,,risperidone 2 MG Oral Tablet [Risperdal],753
+19,233,Nondependent cocaine abuse in remission,2019-12-15,,risperidone 2 MG Oral Tablet [Risperdal],753
+19,558,Incomplete miscarriage with complication,2020-11-04,,acetaminophen 325 MG Oral Tablet [Aceta],753
+19,558,Incomplete miscarriage with complication,2020-11-04,,dexamethasone phosphate 4 MG/ML Injectable Solution,753
+19,558,Incomplete miscarriage with complication,2020-11-04,,2 ML metoclopramide 5 MG/ML Injection,753
+19,558,Incomplete miscarriage with complication,2020-11-04,,10 ML bupivacaine hydrochloride 5 MG/ML Injection,753
+19,558,Incomplete miscarriage with complication,2020-11-04,,benzocaine 15 MG / menthol 3.6 MG Oral Lozenge,753
+19,558,Incomplete miscarriage with complication,2020-11-04,,ibuprofen 600 MG Oral Tablet [Arthrofen 600],753
+19,558,Incomplete miscarriage with complication,2020-11-04,,72 HR scopolamine 0.0139 MG/HR Transdermal System,753
+19,558,Incomplete miscarriage with complication,2020-11-04,,5 ML neostigmine methylsulfate 1 MG/ML Prefilled Syringe,753
+19,558,Incomplete miscarriage with complication,2020-11-04,,midazolam 1 MG/ML Injectable Solution [Versed],753
+19,558,Incomplete miscarriage with complication,2020-11-04,,2 ML ondansetron 2 MG/ML Injection,753
+19,558,Incomplete miscarriage with complication,2020-11-04,,glycopyrrolate 0.2 MG/ML Injectable Solution [Robinul],753
+19,558,Incomplete miscarriage with complication,2020-11-04,,rocuronium bromide 10 MG/ML Injectable Solution,753
+19,558,Incomplete miscarriage with complication,2020-11-04,,100 ML propofol 10 MG/ML Injection,753
+19,558,Incomplete miscarriage with complication,2020-11-04,,acetaminophen 325 MG / hydrocodone bitartrate 5 MG Oral Tablet,753
+19,558,Incomplete miscarriage with complication,2020-11-04,,succinylcholine chloride 20 MG/ML Injectable Solution,753
+19,558,Incomplete miscarriage with complication,2020-11-04,,simethicone 80 MG Chewable Tablet [Anti-Gas-80],753
+19,558,Incomplete miscarriage with complication,2020-11-04,,0.5 ML hydromorphone hydrochloride 1 MG/ML Prefilled Syringe,753
+19,558,Incomplete miscarriage with complication,2020-11-04,,diphenhydramine hydrochloride 50 MG/ML Injectable Solution,753
+19,558,Incomplete miscarriage with complication,2020-11-04,,calcium chloride 0.0014 MEQ/ML / potassium chloride 0.004 MEQ/ML / sodium chloride 0.103 MEQ/ML / sodium lactate 0.028 MEQ/ML Injectable Solution,753
+19,558,Incomplete miscarriage with complication,2020-11-04,,2 ML fentanyl 0.05 MG/ML Injection,753
+19,558,Incomplete miscarriage with complication,2020-11-04,,1 ML ketorolac tromethamine 30 MG/ML Injection,753
+19,558,Nicotine dependence,2020-11-04,,acetaminophen 325 MG Oral Tablet [Aceta],753
+19,558,Nicotine dependence,2020-11-04,,dexamethasone phosphate 4 MG/ML Injectable Solution,753
+19,558,Nicotine dependence,2020-11-04,,2 ML metoclopramide 5 MG/ML Injection,753
+19,558,Nicotine dependence,2020-11-04,,10 ML bupivacaine hydrochloride 5 MG/ML Injection,753
+19,558,Nicotine dependence,2020-11-04,,benzocaine 15 MG / menthol 3.6 MG Oral Lozenge,753
+19,558,Nicotine dependence,2020-11-04,,ibuprofen 600 MG Oral Tablet [Arthrofen 600],753
+19,558,Nicotine dependence,2020-11-04,,72 HR scopolamine 0.0139 MG/HR Transdermal System,753
+19,558,Nicotine dependence,2020-11-04,,5 ML neostigmine methylsulfate 1 MG/ML Prefilled Syringe,753
+19,558,Nicotine dependence,2020-11-04,,midazolam 1 MG/ML Injectable Solution [Versed],753
+19,558,Nicotine dependence,2020-11-04,,2 ML ondansetron 2 MG/ML Injection,753
+19,558,Nicotine dependence,2020-11-04,,glycopyrrolate 0.2 MG/ML Injectable Solution [Robinul],753
+19,558,Nicotine dependence,2020-11-04,,rocuronium bromide 10 MG/ML Injectable Solution,753
+19,558,Nicotine dependence,2020-11-04,,100 ML propofol 10 MG/ML Injection,753
+19,558,Nicotine dependence,2020-11-04,,acetaminophen 325 MG / hydrocodone bitartrate 5 MG Oral Tablet,753
+19,558,Nicotine dependence,2020-11-04,,succinylcholine chloride 20 MG/ML Injectable Solution,753
+19,558,Nicotine dependence,2020-11-04,,simethicone 80 MG Chewable Tablet [Anti-Gas-80],753
+19,558,Nicotine dependence,2020-11-04,,0.5 ML hydromorphone hydrochloride 1 MG/ML Prefilled Syringe,753
+19,558,Nicotine dependence,2020-11-04,,diphenhydramine hydrochloride 50 MG/ML Injectable Solution,753
+19,558,Nicotine dependence,2020-11-04,,calcium chloride 0.0014 MEQ/ML / potassium chloride 0.004 MEQ/ML / sodium chloride 0.103 MEQ/ML / sodium lactate 0.028 MEQ/ML Injectable Solution,753
+19,558,Nicotine dependence,2020-11-04,,2 ML fentanyl 0.05 MG/ML Injection,753
+19,558,Nicotine dependence,2020-11-04,,1 ML ketorolac tromethamine 30 MG/ML Injection,753
+19,558,Incomplete inevitable miscarriage without complication,2020-11-04,,acetaminophen 325 MG Oral Tablet [Aceta],753
+19,558,Incomplete inevitable miscarriage without complication,2020-11-04,,dexamethasone phosphate 4 MG/ML Injectable Solution,753
+19,558,Incomplete inevitable miscarriage without complication,2020-11-04,,2 ML metoclopramide 5 MG/ML Injection,753
+19,558,Incomplete inevitable miscarriage without complication,2020-11-04,,10 ML bupivacaine hydrochloride 5 MG/ML Injection,753
+19,558,Incomplete inevitable miscarriage without complication,2020-11-04,,benzocaine 15 MG / menthol 3.6 MG Oral Lozenge,753
+19,558,Incomplete inevitable miscarriage without complication,2020-11-04,,ibuprofen 600 MG Oral Tablet [Arthrofen 600],753
+19,558,Incomplete inevitable miscarriage without complication,2020-11-04,,72 HR scopolamine 0.0139 MG/HR Transdermal System,753
+19,558,Incomplete inevitable miscarriage without complication,2020-11-04,,5 ML neostigmine methylsulfate 1 MG/ML Prefilled Syringe,753
+19,558,Incomplete inevitable miscarriage without complication,2020-11-04,,midazolam 1 MG/ML Injectable Solution [Versed],753
+19,558,Incomplete inevitable miscarriage without complication,2020-11-04,,2 ML ondansetron 2 MG/ML Injection,753
+19,558,Incomplete inevitable miscarriage without complication,2020-11-04,,glycopyrrolate 0.2 MG/ML Injectable Solution [Robinul],753
+19,558,Incomplete inevitable miscarriage without complication,2020-11-04,,rocuronium bromide 10 MG/ML Injectable Solution,753
+19,558,Incomplete inevitable miscarriage without complication,2020-11-04,,100 ML propofol 10 MG/ML Injection,753
+19,558,Incomplete inevitable miscarriage without complication,2020-11-04,,acetaminophen 325 MG / hydrocodone bitartrate 5 MG Oral Tablet,753
+19,558,Incomplete inevitable miscarriage without complication,2020-11-04,,succinylcholine chloride 20 MG/ML Injectable Solution,753
+19,558,Incomplete inevitable miscarriage without complication,2020-11-04,,simethicone 80 MG Chewable Tablet [Anti-Gas-80],753
+19,558,Incomplete inevitable miscarriage without complication,2020-11-04,,0.5 ML hydromorphone hydrochloride 1 MG/ML Prefilled Syringe,753
+19,558,Incomplete inevitable miscarriage without complication,2020-11-04,,diphenhydramine hydrochloride 50 MG/ML Injectable Solution,753
+19,558,Incomplete inevitable miscarriage without complication,2020-11-04,,calcium chloride 0.0014 MEQ/ML / potassium chloride 0.004 MEQ/ML / sodium chloride 0.103 MEQ/ML / sodium lactate 0.028 MEQ/ML Injectable Solution,753
+19,558,Incomplete inevitable miscarriage without complication,2020-11-04,,2 ML fentanyl 0.05 MG/ML Injection,753
+19,558,Incomplete inevitable miscarriage without complication,2020-11-04,,1 ML ketorolac tromethamine 30 MG/ML Injection,753
+19,558,Cyst of right ovary,2020-11-04,,acetaminophen 325 MG Oral Tablet [Aceta],753
+19,558,Cyst of right ovary,2020-11-04,,dexamethasone phosphate 4 MG/ML Injectable Solution,753
+19,558,Cyst of right ovary,2020-11-04,,2 ML metoclopramide 5 MG/ML Injection,753
+19,558,Cyst of right ovary,2020-11-04,,10 ML bupivacaine hydrochloride 5 MG/ML Injection,753
+19,558,Cyst of right ovary,2020-11-04,,benzocaine 15 MG / menthol 3.6 MG Oral Lozenge,753
+19,558,Cyst of right ovary,2020-11-04,,ibuprofen 600 MG Oral Tablet [Arthrofen 600],753
+19,558,Cyst of right ovary,2020-11-04,,72 HR scopolamine 0.0139 MG/HR Transdermal System,753
+19,558,Cyst of right ovary,2020-11-04,,5 ML neostigmine methylsulfate 1 MG/ML Prefilled Syringe,753
+19,558,Cyst of right ovary,2020-11-04,,midazolam 1 MG/ML Injectable Solution [Versed],753
+19,558,Cyst of right ovary,2020-11-04,,2 ML ondansetron 2 MG/ML Injection,753
+19,558,Cyst of right ovary,2020-11-04,,glycopyrrolate 0.2 MG/ML Injectable Solution [Robinul],753
+19,558,Cyst of right ovary,2020-11-04,,rocuronium bromide 10 MG/ML Injectable Solution,753
+19,558,Cyst of right ovary,2020-11-04,,100 ML propofol 10 MG/ML Injection,753
+19,558,Cyst of right ovary,2020-11-04,,acetaminophen 325 MG / hydrocodone bitartrate 5 MG Oral Tablet,753
+19,558,Cyst of right ovary,2020-11-04,,succinylcholine chloride 20 MG/ML Injectable Solution,753
+19,558,Cyst of right ovary,2020-11-04,,simethicone 80 MG Chewable Tablet [Anti-Gas-80],753
+19,558,Cyst of right ovary,2020-11-04,,0.5 ML hydromorphone hydrochloride 1 MG/ML Prefilled Syringe,753
+19,558,Cyst of right ovary,2020-11-04,,diphenhydramine hydrochloride 50 MG/ML Injectable Solution,753
+19,558,Cyst of right ovary,2020-11-04,,calcium chloride 0.0014 MEQ/ML / potassium chloride 0.004 MEQ/ML / sodium chloride 0.103 MEQ/ML / sodium lactate 0.028 MEQ/ML Injectable Solution,753
+19,558,Cyst of right ovary,2020-11-04,,2 ML fentanyl 0.05 MG/ML Injection,753
+19,558,Cyst of right ovary,2020-11-04,,1 ML ketorolac tromethamine 30 MG/ML Injection,753
+19,558,Bipolar disorder,2020-11-04,,acetaminophen 325 MG Oral Tablet [Aceta],753
+19,558,Bipolar disorder,2020-11-04,,dexamethasone phosphate 4 MG/ML Injectable Solution,753
+19,558,Bipolar disorder,2020-11-04,,2 ML metoclopramide 5 MG/ML Injection,753
+19,558,Bipolar disorder,2020-11-04,,10 ML bupivacaine hydrochloride 5 MG/ML Injection,753
+19,558,Bipolar disorder,2020-11-04,,benzocaine 15 MG / menthol 3.6 MG Oral Lozenge,753
+19,558,Bipolar disorder,2020-11-04,,ibuprofen 600 MG Oral Tablet [Arthrofen 600],753
+19,558,Bipolar disorder,2020-11-04,,72 HR scopolamine 0.0139 MG/HR Transdermal System,753
+19,558,Bipolar disorder,2020-11-04,,5 ML neostigmine methylsulfate 1 MG/ML Prefilled Syringe,753
+19,558,Bipolar disorder,2020-11-04,,midazolam 1 MG/ML Injectable Solution [Versed],753
+19,558,Bipolar disorder,2020-11-04,,2 ML ondansetron 2 MG/ML Injection,753
+19,558,Bipolar disorder,2020-11-04,,glycopyrrolate 0.2 MG/ML Injectable Solution [Robinul],753
+19,558,Bipolar disorder,2020-11-04,,rocuronium bromide 10 MG/ML Injectable Solution,753
+19,558,Bipolar disorder,2020-11-04,,100 ML propofol 10 MG/ML Injection,753
+19,558,Bipolar disorder,2020-11-04,,acetaminophen 325 MG / hydrocodone bitartrate 5 MG Oral Tablet,753
+19,558,Bipolar disorder,2020-11-04,,succinylcholine chloride 20 MG/ML Injectable Solution,753
+19,558,Bipolar disorder,2020-11-04,,simethicone 80 MG Chewable Tablet [Anti-Gas-80],753
+19,558,Bipolar disorder,2020-11-04,,0.5 ML hydromorphone hydrochloride 1 MG/ML Prefilled Syringe,753
+19,558,Bipolar disorder,2020-11-04,,diphenhydramine hydrochloride 50 MG/ML Injectable Solution,753
+19,558,Bipolar disorder,2020-11-04,,calcium chloride 0.0014 MEQ/ML / potassium chloride 0.004 MEQ/ML / sodium chloride 0.103 MEQ/ML / sodium lactate 0.028 MEQ/ML Injectable Solution,753
+19,558,Bipolar disorder,2020-11-04,,2 ML fentanyl 0.05 MG/ML Injection,753
+19,558,Bipolar disorder,2020-11-04,,1 ML ketorolac tromethamine 30 MG/ML Injection,753
+19,558,Incomplete legal abortion without complication,2020-11-04,,acetaminophen 325 MG Oral Tablet [Aceta],753
+19,558,Incomplete legal abortion without complication,2020-11-04,,dexamethasone phosphate 4 MG/ML Injectable Solution,753
+19,558,Incomplete legal abortion without complication,2020-11-04,,2 ML metoclopramide 5 MG/ML Injection,753
+19,558,Incomplete legal abortion without complication,2020-11-04,,10 ML bupivacaine hydrochloride 5 MG/ML Injection,753
+19,558,Incomplete legal abortion without complication,2020-11-04,,benzocaine 15 MG / menthol 3.6 MG Oral Lozenge,753
+19,558,Incomplete legal abortion without complication,2020-11-04,,ibuprofen 600 MG Oral Tablet [Arthrofen 600],753
+19,558,Incomplete legal abortion without complication,2020-11-04,,72 HR scopolamine 0.0139 MG/HR Transdermal System,753
+19,558,Incomplete legal abortion without complication,2020-11-04,,5 ML neostigmine methylsulfate 1 MG/ML Prefilled Syringe,753
+19,558,Incomplete legal abortion without complication,2020-11-04,,midazolam 1 MG/ML Injectable Solution [Versed],753
+19,558,Incomplete legal abortion without complication,2020-11-04,,2 ML ondansetron 2 MG/ML Injection,753
+19,558,Incomplete legal abortion without complication,2020-11-04,,glycopyrrolate 0.2 MG/ML Injectable Solution [Robinul],753
+19,558,Incomplete legal abortion without complication,2020-11-04,,rocuronium bromide 10 MG/ML Injectable Solution,753
+19,558,Incomplete legal abortion without complication,2020-11-04,,100 ML propofol 10 MG/ML Injection,753
+19,558,Incomplete legal abortion without complication,2020-11-04,,acetaminophen 325 MG / hydrocodone bitartrate 5 MG Oral Tablet,753
+19,558,Incomplete legal abortion without complication,2020-11-04,,succinylcholine chloride 20 MG/ML Injectable Solution,753
+19,558,Incomplete legal abortion without complication,2020-11-04,,simethicone 80 MG Chewable Tablet [Anti-Gas-80],753
+19,558,Incomplete legal abortion without complication,2020-11-04,,0.5 ML hydromorphone hydrochloride 1 MG/ML Prefilled Syringe,753
+19,558,Incomplete legal abortion without complication,2020-11-04,,diphenhydramine hydrochloride 50 MG/ML Injectable Solution,753
+19,558,Incomplete legal abortion without complication,2020-11-04,,calcium chloride 0.0014 MEQ/ML / potassium chloride 0.004 MEQ/ML / sodium chloride 0.103 MEQ/ML / sodium lactate 0.028 MEQ/ML Injectable Solution,753
+19,558,Incomplete legal abortion without complication,2020-11-04,,2 ML fentanyl 0.05 MG/ML Injection,753
+19,558,Incomplete legal abortion without complication,2020-11-04,,1 ML ketorolac tromethamine 30 MG/ML Injection,753
+19,558,RhD positive,2020-11-04,,acetaminophen 325 MG Oral Tablet [Aceta],753
+19,558,RhD positive,2020-11-04,,dexamethasone phosphate 4 MG/ML Injectable Solution,753
+19,558,RhD positive,2020-11-04,,2 ML metoclopramide 5 MG/ML Injection,753
+19,558,RhD positive,2020-11-04,,10 ML bupivacaine hydrochloride 5 MG/ML Injection,753
+19,558,RhD positive,2020-11-04,,benzocaine 15 MG / menthol 3.6 MG Oral Lozenge,753
+19,558,RhD positive,2020-11-04,,ibuprofen 600 MG Oral Tablet [Arthrofen 600],753
+19,558,RhD positive,2020-11-04,,72 HR scopolamine 0.0139 MG/HR Transdermal System,753
+19,558,RhD positive,2020-11-04,,5 ML neostigmine methylsulfate 1 MG/ML Prefilled Syringe,753
+19,558,RhD positive,2020-11-04,,midazolam 1 MG/ML Injectable Solution [Versed],753
+19,558,RhD positive,2020-11-04,,2 ML ondansetron 2 MG/ML Injection,753
+19,558,RhD positive,2020-11-04,,glycopyrrolate 0.2 MG/ML Injectable Solution [Robinul],753
+19,558,RhD positive,2020-11-04,,rocuronium bromide 10 MG/ML Injectable Solution,753
+19,558,RhD positive,2020-11-04,,100 ML propofol 10 MG/ML Injection,753
+19,558,RhD positive,2020-11-04,,acetaminophen 325 MG / hydrocodone bitartrate 5 MG Oral Tablet,753
+19,558,RhD positive,2020-11-04,,succinylcholine chloride 20 MG/ML Injectable Solution,753
+19,558,RhD positive,2020-11-04,,simethicone 80 MG Chewable Tablet [Anti-Gas-80],753
+19,558,RhD positive,2020-11-04,,0.5 ML hydromorphone hydrochloride 1 MG/ML Prefilled Syringe,753
+19,558,RhD positive,2020-11-04,,diphenhydramine hydrochloride 50 MG/ML Injectable Solution,753
+19,558,RhD positive,2020-11-04,,calcium chloride 0.0014 MEQ/ML / potassium chloride 0.004 MEQ/ML / sodium chloride 0.103 MEQ/ML / sodium lactate 0.028 MEQ/ML Injectable Solution,753
+19,558,RhD positive,2020-11-04,,2 ML fentanyl 0.05 MG/ML Injection,753
+19,558,RhD positive,2020-11-04,,1 ML ketorolac tromethamine 30 MG/ML Injection,753
+19,558,Cyst of ovary,2020-11-04,,acetaminophen 325 MG Oral Tablet [Aceta],753
+19,558,Cyst of ovary,2020-11-04,,dexamethasone phosphate 4 MG/ML Injectable Solution,753
+19,558,Cyst of ovary,2020-11-04,,2 ML metoclopramide 5 MG/ML Injection,753
+19,558,Cyst of ovary,2020-11-04,,10 ML bupivacaine hydrochloride 5 MG/ML Injection,753
+19,558,Cyst of ovary,2020-11-04,,benzocaine 15 MG / menthol 3.6 MG Oral Lozenge,753
+19,558,Cyst of ovary,2020-11-04,,ibuprofen 600 MG Oral Tablet [Arthrofen 600],753
+19,558,Cyst of ovary,2020-11-04,,72 HR scopolamine 0.0139 MG/HR Transdermal System,753
+19,558,Cyst of ovary,2020-11-04,,5 ML neostigmine methylsulfate 1 MG/ML Prefilled Syringe,753
+19,558,Cyst of ovary,2020-11-04,,midazolam 1 MG/ML Injectable Solution [Versed],753
+19,558,Cyst of ovary,2020-11-04,,2 ML ondansetron 2 MG/ML Injection,753
+19,558,Cyst of ovary,2020-11-04,,glycopyrrolate 0.2 MG/ML Injectable Solution [Robinul],753
+19,558,Cyst of ovary,2020-11-04,,rocuronium bromide 10 MG/ML Injectable Solution,753
+19,558,Cyst of ovary,2020-11-04,,100 ML propofol 10 MG/ML Injection,753
+19,558,Cyst of ovary,2020-11-04,,acetaminophen 325 MG / hydrocodone bitartrate 5 MG Oral Tablet,753
+19,558,Cyst of ovary,2020-11-04,,succinylcholine chloride 20 MG/ML Injectable Solution,753
+19,558,Cyst of ovary,2020-11-04,,simethicone 80 MG Chewable Tablet [Anti-Gas-80],753
+19,558,Cyst of ovary,2020-11-04,,0.5 ML hydromorphone hydrochloride 1 MG/ML Prefilled Syringe,753
+19,558,Cyst of ovary,2020-11-04,,diphenhydramine hydrochloride 50 MG/ML Injectable Solution,753
+19,558,Cyst of ovary,2020-11-04,,calcium chloride 0.0014 MEQ/ML / potassium chloride 0.004 MEQ/ML / sodium chloride 0.103 MEQ/ML / sodium lactate 0.028 MEQ/ML Injectable Solution,753
+19,558,Cyst of ovary,2020-11-04,,2 ML fentanyl 0.05 MG/ML Injection,753
+19,558,Cyst of ovary,2020-11-04,,1 ML ketorolac tromethamine 30 MG/ML Injection,753
+19,558,Pregnancy with abortive outcome,2020-11-04,,acetaminophen 325 MG Oral Tablet [Aceta],753
+19,558,Pregnancy with abortive outcome,2020-11-04,,dexamethasone phosphate 4 MG/ML Injectable Solution,753
+19,558,Pregnancy with abortive outcome,2020-11-04,,2 ML metoclopramide 5 MG/ML Injection,753
+19,558,Pregnancy with abortive outcome,2020-11-04,,10 ML bupivacaine hydrochloride 5 MG/ML Injection,753
+19,558,Pregnancy with abortive outcome,2020-11-04,,benzocaine 15 MG / menthol 3.6 MG Oral Lozenge,753
+19,558,Pregnancy with abortive outcome,2020-11-04,,ibuprofen 600 MG Oral Tablet [Arthrofen 600],753
+19,558,Pregnancy with abortive outcome,2020-11-04,,72 HR scopolamine 0.0139 MG/HR Transdermal System,753
+19,558,Pregnancy with abortive outcome,2020-11-04,,5 ML neostigmine methylsulfate 1 MG/ML Prefilled Syringe,753
+19,558,Pregnancy with abortive outcome,2020-11-04,,midazolam 1 MG/ML Injectable Solution [Versed],753
+19,558,Pregnancy with abortive outcome,2020-11-04,,2 ML ondansetron 2 MG/ML Injection,753
+19,558,Pregnancy with abortive outcome,2020-11-04,,glycopyrrolate 0.2 MG/ML Injectable Solution [Robinul],753
+19,558,Pregnancy with abortive outcome,2020-11-04,,rocuronium bromide 10 MG/ML Injectable Solution,753
+19,558,Pregnancy with abortive outcome,2020-11-04,,100 ML propofol 10 MG/ML Injection,753
+19,558,Pregnancy with abortive outcome,2020-11-04,,acetaminophen 325 MG / hydrocodone bitartrate 5 MG Oral Tablet,753
+19,558,Pregnancy with abortive outcome,2020-11-04,,succinylcholine chloride 20 MG/ML Injectable Solution,753
+19,558,Pregnancy with abortive outcome,2020-11-04,,simethicone 80 MG Chewable Tablet [Anti-Gas-80],753
+19,558,Pregnancy with abortive outcome,2020-11-04,,0.5 ML hydromorphone hydrochloride 1 MG/ML Prefilled Syringe,753
+19,558,Pregnancy with abortive outcome,2020-11-04,,diphenhydramine hydrochloride 50 MG/ML Injectable Solution,753
+19,558,Pregnancy with abortive outcome,2020-11-04,,calcium chloride 0.0014 MEQ/ML / potassium chloride 0.004 MEQ/ML / sodium chloride 0.103 MEQ/ML / sodium lactate 0.028 MEQ/ML Injectable Solution,753
+19,558,Pregnancy with abortive outcome,2020-11-04,,2 ML fentanyl 0.05 MG/ML Injection,753
+19,558,Pregnancy with abortive outcome,2020-11-04,,1 ML ketorolac tromethamine 30 MG/ML Injection,753
+19,559,,2020-11-05,,ibuprofen 600 MG Oral Tablet [Arthrofen 600],753
+19,559,,2020-11-05,,calcium chloride 0.0014 MEQ/ML / potassium chloride 0.004 MEQ/ML / sodium chloride 0.103 MEQ/ML / sodium lactate 0.028 MEQ/ML Injectable Solution,753
+19,559,,2020-11-05,,acetaminophen 325 MG / hydrocodone bitartrate 5 MG Oral Tablet,753
+19,698,General finding of observation of patient,2021-03-24,,,753
+19,699,General finding of observation of patient,2021-03-25,,,753
+19,720,General finding of observation of patient,2021-04-15,,,753
+19,730,COVID-19,2021-04-25,,,753
+19,730,General finding of observation of patient,2021-04-25,,,753
+19,747,Normal pregnancy,2021-05-12,,,753
+19,747,Finding related to pregnancy,2021-05-12,,,753
+19,747,Postprocedural state finding,2021-05-12,,,753
+19,749,Second trimester pregnancy,2021-05-14,,,753
+19,749,Normal pregnancy,2021-05-14,,,753
+19,749,"Gestation period, 16 weeks",2021-05-14,,,753
+19,753,Second trimester pregnancy,2021-05-18,,,753
+19,753,Normal pregnancy,2021-05-18,,,753
+20,0,,2021-07-23,,dexamethasone phosphate 10 MG/ML Injectable Solution,30
+20,4,,2021-07-27,,dexamethasone phosphate 10 MG/ML Injectable Solution,30
+20,4,,2021-07-27,,minocycline 50 MG Oral Capsule,30
+20,30,,2021-08-22,,fluticasone propionate 0.05 MG/ACTUAT Metered Dose Nasal Spray,30
+21,0,Gastroesophageal reflux disease without esophagitis,2019-03-08,,,771
+21,0,Impaired intestinal carbohydrate absorption,2019-03-08,,,771
+21,0,Type 2 diabetes mellitus without complication,2019-03-08,,,771
+21,0,Essential hypertension,2019-03-08,,,771
+21,32,Recurrent acute sinusitis,2019-04-09,,,771
+21,32,Chronic maxillary sinusitis,2019-04-09,,,771
+21,49,Chronic sinusitis,2019-04-26,,,771
+21,49,Gastroesophageal reflux disease without esophagitis,2019-04-26,,,771
+21,63,Chronic sinusitis,2019-05-10,,esomeprazole 40 MG Delayed Release Oral Capsule,771
+21,63,Chronic sphenoidal sinusitis,2019-05-10,,esomeprazole 40 MG Delayed Release Oral Capsule,771
+21,63,Deviated nasal septum,2019-05-10,,esomeprazole 40 MG Delayed Release Oral Capsule,771
+21,63,Gastroesophageal reflux disease without esophagitis,2019-05-10,,esomeprazole 40 MG Delayed Release Oral Capsule,771
+21,65,,2019-05-12,,hydrochlorothiazide 25 MG / losartan potassium 100 MG Oral Tablet,771
+21,96,,2019-06-12,,hydrochlorothiazide 25 MG / losartan potassium 100 MG Oral Tablet,771
+21,96,,2019-06-12,,esomeprazole 40 MG Delayed Release Oral Capsule,771
+21,130,,2019-07-16,,esomeprazole 40 MG Delayed Release Oral Capsule,771
+21,187,Essential hypertension,2019-09-11,,,771
+21,189,Essential hypertension,2019-09-13,,,771
+21,189,Impaired intestinal carbohydrate absorption,2019-09-13,,,771
+21,189,Morbid obesity,2019-09-13,,,771
+21,189,Obstructive sleep apnea syndrome,2019-09-13,,,771
+21,220,Finding of vision of eye,2019-10-14,"Oversize lens, per lens",,771
+21,220,Finding of vision of eye,2019-10-14,Deluxe frame,,771
+21,220,Finding of vision of eye,2019-10-14,"Scratch resistant coating, per lens",,771
+21,220,Finding of vision of eye,2019-10-14,"Progressive lens, per lens",,771
+21,220,Finding of vision of eye,2019-10-14,"Lens, polycarbonate or equal, any index, per lens",,771
+21,228,Acute maxillary sinusitis,2019-10-22,,cefdinir 300 MG Oral Capsule,771
+21,228,Acute bronchitis,2019-10-22,,cefdinir 300 MG Oral Capsule,771
+21,290,Bronchitis,2019-12-23,,benzonatate 100 MG Oral Capsule,771
+21,290,Bronchitis,2019-12-23,,cephalexin 500 MG Oral Capsule,771
+21,290,Bronchitis,2019-12-23,,Methylprednisolone 125 MG Injection [Solu-Medrone],771
+21,290,Essential hypertension,2019-12-23,,benzonatate 100 MG Oral Capsule,771
+21,290,Essential hypertension,2019-12-23,,cephalexin 500 MG Oral Capsule,771
+21,290,Essential hypertension,2019-12-23,,Methylprednisolone 125 MG Injection [Solu-Medrone],771
+21,302,Bronchitis,2020-01-04,,dexamethasone 1 MG,771
+21,302,Bronchitis,2020-01-04,,methylprednisolone Injection,771
+21,315,,2020-01-17,,esomeprazole 40 MG Delayed Release Oral Capsule,771
+21,363,Acute sinusitis,2020-03-05,,amoxicillin 875 MG / clavulanate 125 MG Oral Tablet,771
+21,371,Gastroesophageal reflux disease without esophagitis,2020-03-13,,hydrochlorothiazide 25 MG / losartan potassium 100 MG Oral Tablet,771
+21,371,Essential hypertension,2020-03-13,,hydrochlorothiazide 25 MG / losartan potassium 100 MG Oral Tablet,771
+21,371,Obstructive sleep apnea syndrome,2020-03-13,,hydrochlorothiazide 25 MG / losartan potassium 100 MG Oral Tablet,771
+21,371,Impaired intestinal carbohydrate absorption,2020-03-13,,hydrochlorothiazide 25 MG / losartan potassium 100 MG Oral Tablet,771
+21,421,Acute upper respiratory infection,2020-05-02,,,771
+21,433,,2020-05-14,,amoxicillin 875 MG / clavulanate 125 MG Oral Tablet,771
+21,450,Dyspnea,2020-05-31,,,771
+21,450,Gastroesophageal reflux disease without esophagitis,2020-05-31,,,771
+21,450,Chronic maxillary sinusitis,2020-05-31,,,771
+21,450,Mild intermittent asthma,2020-05-31,,,771
+21,520,,2020-08-09,,furosemide 40 MG Oral Tablet,771
+21,520,,2020-08-09,,hydrochlorothiazide 25 MG / losartan potassium 100 MG Oral Tablet,771
+21,521,,2020-08-10,,esomeprazole 40 MG Delayed Release Oral Capsule,771
+21,553,Essential hypertension,2020-09-11,,furosemide 40 MG Oral Tablet,771
+21,553,Essential hypertension,2020-09-11,,NDA021457 200 ACTUAT albuterol 0.09 MG/ACTUAT Metered Dose Inhaler,771
+21,553,Essential hypertension,2020-09-11,,esomeprazole 40 MG Delayed Release Oral Capsule,771
+21,553,Hyperglycemia,2020-09-11,,furosemide 40 MG Oral Tablet,771
+21,553,Hyperglycemia,2020-09-11,,NDA021457 200 ACTUAT albuterol 0.09 MG/ACTUAT Metered Dose Inhaler,771
+21,553,Hyperglycemia,2020-09-11,,esomeprazole 40 MG Delayed Release Oral Capsule,771
+21,553,Mild intermittent asthma,2020-09-11,,furosemide 40 MG Oral Tablet,771
+21,553,Mild intermittent asthma,2020-09-11,,NDA021457 200 ACTUAT albuterol 0.09 MG/ACTUAT Metered Dose Inhaler,771
+21,553,Mild intermittent asthma,2020-09-11,,esomeprazole 40 MG Delayed Release Oral Capsule,771
+21,589,Hemorrhoids,2020-10-17,,,771
+21,610,Morbid obesity,2020-11-07,,,771
+21,637,Mild intermittent asthma,2020-12-04,,methylprednisolone Injection,771
+21,637,Mild intermittent asthma,2020-12-04,,dexamethasone 1 MG,771
+21,637,Chronic sinusitis,2020-12-04,,methylprednisolone Injection,771
+21,637,Chronic sinusitis,2020-12-04,,dexamethasone 1 MG,771
+21,637,Allergic disposition,2020-12-04,,methylprednisolone Injection,771
+21,637,Allergic disposition,2020-12-04,,dexamethasone 1 MG,771
+21,746,Cough,2021-03-23,,,771
+21,748,COVID-19,2021-03-25,,,771
+21,771,Contusion of abdominal wall,2021-04-17,,,771
+22,0,Dyspnea,2019-05-07,,,1092
+22,264,Acute bronchospasm,2020-01-26,,,1092
+22,264,Pneumonia,2020-01-26,,,1092
+22,264,Lobar pneumonia,2020-01-26,,,1092
+22,281,Acute upper respiratory infection,2020-02-12,,,1092
+22,314,Acute upper respiratory infection,2020-03-16,,,1092
+22,314,Acute pharyngitis,2020-03-16,,,1092
+22,361,Convergence insufficiency,2020-05-02,"Press-on lens, fresnell prism, per lens",,1092
+22,361,Specific reading disorder,2020-05-02,"Press-on lens, fresnell prism, per lens",,1092
+22,361,Developmental reading disorder,2020-05-02,"Press-on lens, fresnell prism, per lens",,1092
+22,361,Anomaly of vergence system,2020-05-02,"Press-on lens, fresnell prism, per lens",,1092
+22,361,Hypermetropia,2020-05-02,"Press-on lens, fresnell prism, per lens",,1092
+22,535,Convergence insufficiency,2020-10-23,,,1092
+22,535,Fourth nerve palsy,2020-10-23,,,1092
+22,535,Specific reading disorder,2020-10-23,,,1092
+22,535,Hypermetropia,2020-10-23,,,1092
+22,723,Fourth nerve palsy,2021-04-29,,,1092
+22,723,Convergence insufficiency,2021-04-29,,,1092
+22,815,Acne vulgaris,2021-07-30,,doxycycline monohydrate 100 MG Oral Tablet,1092
+22,815,Acne vulgaris,2021-07-30,,tretinoin 0.25 MG/ML Topical Cream,1092
+22,855,,2021-09-08,,"SARS-CoV-2 (COVID-19) vaccine, mRNA-BNT162b2 0.1 MG/ML Injectable Suspension",1092
+22,876,,2021-09-29,,"SARS-CoV-2 (COVID-19) vaccine, mRNA-BNT162b2 0.1 MG/ML Injectable Suspension",1092
+22,988,Acne vulgaris,2022-01-19,,,1092
+22,1023,Acne vulgaris,2022-02-23,,isotretinoin 30 MG Oral Capsule,1092
+22,1052,Acne vulgaris,2022-03-24,,isotretinoin 30 MG Oral Capsule,1092
+22,1053,Acne,2022-03-25,,,1092
+22,1053,Acne vulgaris,2022-03-25,,,1092
+22,1058,Acne vulgaris,2022-03-30,,isotretinoin 30 MG Oral Capsule,1092
+22,1073,COVID-19,2022-04-14,,,1092
+22,1073,Acute pharyngitis,2022-04-14,,,1092
+22,1074,,2022-04-15,,ibuprofen 600 MG Oral Tablet,1092
+22,1092,Acne vulgaris,2022-05-03,,isotretinoin 30 MG Oral Capsule,1092
+23,0,,2018-03-10,,penicillin V potassium 500 MG Oral Tablet,856
+23,141,,2018-07-29,,permethrin 50 MG/ML Topical Cream,856
+23,176,,2018-09-02,,triamcinolone acetonide 5 MG/ML Topical Cream,856
+23,176,,2018-09-02,,mupirocin 0.02 MG/MG Topical Ointment,856
+23,274,,2018-12-09,,{21 (methylprednisolone 4 MG Oral Tablet) } Pack,856
+23,279,,2018-12-14,,nystatin 100000 UNT/ML Oral Suspension,856
+23,506,Platelet count - finding,2019-07-29,,,856
+23,708,,2020-02-16,,{21 (desogestrel 0.15 MG / ethinyl estradiol 0.03 MG Oral Tablet) / 7 (inert ingredients 1 MG Oral Tablet) } Pack [Apri 28 Day],856
+23,721,,2020-02-29,,topiramate 50 MG Oral Tablet,856
+23,724,,2020-03-03,,NDA020983 200 ACTUAT albuterol 0.09 MG/ACTUAT Metered Dose Inhaler,856
+23,727,,2020-03-06,,60 ACTUAT fluticasone propionate 0.25 MG/ACTUAT / salmeterol 0.05 MG/ACTUAT Dry Powder Inhaler [Advair],856
+23,727,,2020-03-06,,albuterol 0.83 MG/ML Inhalation Solution,856
+23,733,,2020-03-12,,{21 (desogestrel 0.15 MG / ethinyl estradiol 0.03 MG Oral Tablet) / 7 (inert ingredients 1 MG Oral Tablet) } Pack [Apri 28 Day],856
+23,734,,2020-03-13,,"nitrofurantoin, macrocrystals 25 MG / nitrofurantoin, monohydrate 75 MG Oral Capsule",856
+23,744,,2020-03-23,,topiramate 50 MG Oral Tablet,856
+23,758,,2020-04-06,,{21 (desogestrel 0.15 MG / ethinyl estradiol 0.03 MG Oral Tablet) / 7 (inert ingredients 1 MG Oral Tablet) } Pack [Apri 28 Day],856
+23,829,,2020-06-16,,ciprofloxacin 3 MG/ML / dexamethasone 1 MG/ML Otic Suspension [Ciprodex],856
+23,829,,2020-06-16,,{21 (methylprednisolone 4 MG Oral Tablet) } Pack,856
+23,833,,2020-06-20,,topiramate 50 MG Oral Tablet,856
+23,845,,2020-07-02,,{21 (desogestrel 0.15 MG / ethinyl estradiol 0.03 MG Oral Tablet) / 7 (inert ingredients 1 MG Oral Tablet) } Pack [Apri 28 Day],856
+23,853,,2020-07-10,,amoxicillin 875 MG / clavulanate 125 MG Oral Tablet,856
+23,856,,2020-07-13,,topiramate 50 MG Oral Tablet,856
+24,0,Cervical disc disorder,2018-09-13,,,1392
+24,0,Allergic rhinitis,2018-09-13,,,1392
+24,68,Acute upper respiratory infection,2018-11-20,,,1392
+24,128,Left lower quadrant pain,2019-01-19,,,1392
+24,344,Illness,2019-08-23,,,1392
+24,351,Bronchitis,2019-08-30,,,1392
+24,371,Conduction disorder of the heart,2019-09-19,,,1392
+24,371,Melanocytic nevus,2019-09-19,,,1392
+24,371,Bilateral hearing loss,2019-09-19,,,1392
+24,490,Strain of muscle and/or tendon of lower leg,2020-01-16,,,1392
+24,698,Abrasion of head,2020-08-11,,,1392
+24,698,Concussion with no loss of consciousness,2020-08-11,,,1392
+24,881,Vitamin D deficiency,2021-02-10,,,1392
+24,881,Palpitations,2021-02-10,,,1392
+24,902,Vitamin D deficiency,2021-03-03,,,1392
+24,902,Palpitations,2021-03-03,,,1392
+24,918,Acute stress disorder,2021-03-19,,,1392
+24,1060,Viral disease,2021-08-08,,,1392
+24,1125,Pain in left foot,2021-10-12,,,1392
+24,1128,Arthropathy,2021-10-15,,,1392
+24,1128,Pain in left foot,2021-10-15,,,1392
+24,1177,Pain of left knee region,2021-12-03,,,1392
+24,1178,Congenital malformation,2021-12-04,,,1392
+24,1211,Umbilical hernia,2022-01-06,,,1392
+24,1358,Diarrhea,2022-06-02,,,1392
+24,1358,Nausea and vomiting,2022-06-02,,,1392
+24,1364,COVID-19,2022-06-08,,,1392
+24,1392,,2022-07-06,,"tetanus toxoid, reduced diphtheria toxoid, and acellular pertussis vaccine, adsorbed",1392
