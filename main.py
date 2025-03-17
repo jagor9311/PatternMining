@@ -382,9 +382,22 @@ def noncontrast_HMM_ALLDATA(MSS_developed, MSS_nonshock, hour, obser_h, g, g_int
     workbook.close()   
         
     # Write the Important Patterns
-    current_dir = os.getcwd()
-    excel_file_name = 'ALL_SVMLinear_Patterns_Pred'+str(hour)+'_Obser'+str(obser_h)+'_G'+str(g)+'_g'+str(g_int)+'_sigma'+str(sup_developed)+'_'+str(sup_nonshock)+'.xlsx'
-    workbook = xlsxwriter.Workbook(os.getcwd()+'/'+'ALL_SVM_Linear/'+excel_file_name)
+    #current_dir = os.getcwd()
+    #excel_file_name = 'ALL_SVMLinear_Patterns_Pred'+str(hour)+'_Obser'+str(obser_h)+'_G'+str(g)+'_g'+str(g_int)+'_sigma'+str(sup_developed)+'_'+str(sup_nonshock)+'.xlsx'
+    #workbook = xlsxwriter.Workbook(os.getcwd()+r'\ALL_SVM_Linear\'+excel_file_name)
+
+    # Construct the directory path correctly
+    directory = os.path.join(os.getcwd(), 'ALL_SVM_Linear')
+
+    # Ensure the directory exists
+    os.makedirs(directory, exist_ok=True)
+
+    # Construct the file path
+    excel_file_name = f'ALL_SVMLinear_Patterns_Pred{hour}_Obser{obser_h}_G{g}_g{g_int}_sigma{sup_developed}_{sup_nonshock}.xlsx'
+    file_path = os.path.join(directory, excel_file_name)
+
+    # Create the workbook
+    workbook = xlsxwriter.Workbook(file_path)
        
     all_pattern_list = []
     for item in selected_pattern_shock:
