@@ -27,96 +27,15 @@ Features = ['condition_concept_name','drug_concept_name','device_concept_name']
 ###########################################################
 
 
-##################
-## Read in Data ##
-##################
-if True:
-    '''
-    condition_occurrence = pd.read_excel('C:/Users/Joe/Box/Agor Research/NIH Long Covid Computational Challenge/Contrasted Pattern Mining New/Sample_Pattern_Mining_Data.xlsx',sheet_name="condition_occurrence")
-    drug_exposure = pd.read_excel('C:/Users/Joe/Box/Agor Research/NIH Long Covid Computational Challenge/Contrasted Pattern Mining New/Sample_Pattern_Mining_Data.xlsx',sheet_name="drug_exposure")
-    device_exposure = pd.read_excel('C:/Users/Joe/Box/Agor Research/NIH Long Covid Computational Challenge/Contrasted Pattern Mining New/Sample_Pattern_Mining_Data.xlsx',sheet_name="device_exposure")
-    long_COVID_Silver_Standard = pd.read_excel('C:/Users/Joe/Box/Agor Research/NIH Long Covid Computational Challenge/Contrasted Pattern Mining New/Sample_Pattern_Mining_Data.xlsx',sheet_name="long_COVID_Silver_Standard")
-    '''
-    condition_occurrence = pd.read_excel(r'C:\Users\Joe\PycharmProjects\PatternMining\Sample_Pattern_Mining_Data.xlsx',sheet_name="condition_occurrence")
-    drug_exposure = pd.read_excel(r'C:\Users\Joe\PycharmProjects\PatternMining\Sample_Pattern_Mining_Data.xlsx',sheet_name="drug_exposure")
-    device_exposure = pd.read_excel(r'C:\Users\Joe\PycharmProjects\PatternMining\Sample_Pattern_Mining_Data.xlsx',sheet_name="device_exposure")
-    long_COVID_Silver_Standard = pd.read_excel(r'C:\Users\Joe\PycharmProjects\PatternMining\Sample_Pattern_Mining_Data.xlsx',sheet_name="long_COVID_Silver_Standard")
-    
-   
-########################
-## Data Preprocessing ##
-########################
-
-# Merge dataframes by person_id and date
-df = pd.merge(condition_occurrence,device_exposure, how = 'outer', on = ['person_id','date'])
-df = pd.merge(df,drug_exposure, how = 'outer', on = ['person_id','date'])
-
-# Remove duplicate condition, device, druge, and date combinations
-df1 = df.drop_duplicates(
-    subset = ['person_id','condition_concept_name', 'device_concept_name','drug_concept_name','date'],
-    keep = 'last').reset_index(drop = True)
-
-# Sort values by date and person and reset the index
-df2 = df1.sort_values(by = ['person_id', 'date'], ascending = [True, True], na_position = 'first')
-df2 = df2.reset_index()
-
-# Calculate unique persons
-person_ids = pd.unique(df2['person_id'])
-n = len(person_ids) 
-
-# Calculate the days from first observation as for each individual and store in temporary list
-temp = []
-for i in person_ids:
-    df3 = df2[df2['person_id']==i]
-    df3 = df3.reset_index()
-    temp1 = [(df3.loc[x,'date']-df3.loc[0,'date']).days for x in range(df3.shape[0])]
-    temp = temp+temp1
-
-# Insert a new column into data frame that provides the days from the first observation
-df2.insert(2,'days_from_first_event',temp)
-df2 = df2.drop('index',axis=1) # Remove a created index column
 
 
-# Split data into case (long-covid) and control (no long-covid)
-dfLongCovid = pd.DataFrame()
-dfNoLongCovid = pd.DataFrame()
-for i in person_ids:
-    val = long_COVID_Silver_Standard.loc[long_COVID_Silver_Standard['person_id'] == i, 'time_to_pasc']
-    #if math.isnan(long_COVID_Silver_Standard[long_COVID_Silver_Standard['person_id'] == i]['time_to_pasc']):
-    if math.isnan(val.iloc[0]):
-        df3 = df2[df2['person_id']==i]
-        df3 = df3.reset_index()
-        temp = [df3.loc[df3.shape[0]-1,'days_from_first_event']]*df3.shape[0]
-        df3['event_time'] = temp
-        dfNoLongCovid = pd.concat([dfNoLongCovid, df3], ignore_index=True)
-    else:
-        df3 = df2[df2['person_id']==i]
-        df3 = df3.reset_index()
-        temp_lc = long_COVID_Silver_Standard[long_COVID_Silver_Standard['person_id']==i]['time_to_pasc'].values[0]
-        temp_lc = long_COVID_Silver_Standard[long_COVID_Silver_Standard['person_id']==i]['COVID Index']+pd.to_timedelta(temp_lc,unit='D')
-        temp_lc = temp_lc.tolist()
-        temp = temp_lc[0] - df3.loc[0,'date']
-        temp = [temp.days]*df3.shape[0]
-        df3['event_time'] = temp
-        dfLongCovid = pd.concat([dfLongCovid, df3], ignore_index=True)
-      
-dfLongCovid = dfLongCovid.drop('index',axis=1) # Remove a created index column
-dfNoLongCovid = dfNoLongCovid.drop('index',axis=1) # Remove a created index column 
 
-# Identify unique values of features
-featureValues = []
-for i in range(len(Features)):
-    temp = list(pd.unique(dfLongCovid[Features[i]]))
-    temp = [x for x in temp if str(x) != 'nan']
-    temp1 = list(pd.unique(dfNoLongCovid[Features[i]]))
-    temp1 = [x for x in temp1 if str(x) != 'nan']
-    temp2 = temp+temp1
-    temp3 = [*set(temp2)]
-    featureValues.append(temp3)
+## Read in data
 
-# Write out updated population (block group) information
-dfLongCovid.to_csv('merged_data_LongCovid.csv',index = False)  
-dfNoLongCovid.to_csv('merged_data_NoLongCovid.csv',index = False)   
+dfLongCovid = pd.read_csv(r'C:\Users\Joe\PycharmProjects\PatternMining\merged_data_LongCovid.csv')
+dfNoLongCovid = pd.read_csv(r'C:\Users\Joe\PycharmProjects\PatternMining\merged_data_NoLongCovid.csv')
+
+
 
 
 # Calculate Five Number Summaries for Time Differences
@@ -398,9 +317,120 @@ for num in range(5):
             #print(cell)
             #worksheet.write(row, col, cell)
     print(test)
-    workbook.close() 
+    workbook.close()
 
 
+
+
+
+
+
+
+
+##############################################################################################################
+##############################################################################################################
+##                                                 OLD CODE                                                 ##
+##############################################################################################################
+##############################################################################################################
+
+
+
+
+########################################
+## PREVIOUS LONG COVID PRE-PROCESSING ##
+#  OUTPUT WILL BE TO TWO .csv FILES   ##
+########################################
+if False:
+    '''
+    condition_occurrence = pd.read_excel('C:/Users/Joe/Box/Agor Research/NIH Long Covid Computational Challenge/Contrasted Pattern Mining New/Sample_Pattern_Mining_Data.xlsx',sheet_name="condition_occurrence")
+    drug_exposure = pd.read_excel('C:/Users/Joe/Box/Agor Research/NIH Long Covid Computational Challenge/Contrasted Pattern Mining New/Sample_Pattern_Mining_Data.xlsx',sheet_name="drug_exposure")
+    device_exposure = pd.read_excel('C:/Users/Joe/Box/Agor Research/NIH Long Covid Computational Challenge/Contrasted Pattern Mining New/Sample_Pattern_Mining_Data.xlsx',sheet_name="device_exposure")
+    long_COVID_Silver_Standard = pd.read_excel('C:/Users/Joe/Box/Agor Research/NIH Long Covid Computational Challenge/Contrasted Pattern Mining New/Sample_Pattern_Mining_Data.xlsx',sheet_name="long_COVID_Silver_Standard")
+    '''
+    condition_occurrence = pd.read_excel(r'C:\Users\Joe\PycharmProjects\PatternMining\Sample_Pattern_Mining_Data.xlsx',
+                                         sheet_name="condition_occurrence")
+    drug_exposure = pd.read_excel(r'C:\Users\Joe\PycharmProjects\PatternMining\Sample_Pattern_Mining_Data.xlsx',
+                                  sheet_name="drug_exposure")
+    device_exposure = pd.read_excel(r'C:\Users\Joe\PycharmProjects\PatternMining\Sample_Pattern_Mining_Data.xlsx',
+                                    sheet_name="device_exposure")
+    long_COVID_Silver_Standard = pd.read_excel(
+        r'C:\Users\Joe\PycharmProjects\PatternMining\Sample_Pattern_Mining_Data.xlsx',
+        sheet_name="long_COVID_Silver_Standard")
+
+    ########################
+    ## Data Preprocessing ##
+    ########################
+
+    # Merge dataframes by person_id and date
+    df = pd.merge(condition_occurrence, device_exposure, how='outer', on=['person_id', 'date'])
+    df = pd.merge(df, drug_exposure, how='outer', on=['person_id', 'date'])
+
+    # Remove duplicate condition, device, druge, and date combinations
+    df1 = df.drop_duplicates(
+        subset=['person_id', 'condition_concept_name', 'device_concept_name', 'drug_concept_name', 'date'],
+        keep='last').reset_index(drop=True)
+
+    # Sort values by date and person and reset the index
+    df2 = df1.sort_values(by=['person_id', 'date'], ascending=[True, True], na_position='first')
+    df2 = df2.reset_index()
+
+    # Calculate unique persons
+    person_ids = pd.unique(df2['person_id'])
+    n = len(person_ids)
+
+    # Calculate the days from first observation as for each individual and store in temporary list
+    temp = []
+    for i in person_ids:
+        df3 = df2[df2['person_id'] == i]
+        df3 = df3.reset_index()
+        temp1 = [(df3.loc[x, 'date'] - df3.loc[0, 'date']).days for x in range(df3.shape[0])]
+        temp = temp + temp1
+
+    # Insert a new column into data frame that provides the days from the first observation
+    df2.insert(2, 'days_from_first_event', temp)
+    df2 = df2.drop('index', axis=1)  # Remove a created index column
+
+    # Split data into case (long-covid) and control (no long-covid)
+    dfLongCovid = pd.DataFrame()
+    dfNoLongCovid = pd.DataFrame()
+    for i in person_ids:
+        val = long_COVID_Silver_Standard.loc[long_COVID_Silver_Standard['person_id'] == i, 'time_to_pasc']
+        # if math.isnan(long_COVID_Silver_Standard[long_COVID_Silver_Standard['person_id'] == i]['time_to_pasc']):
+        if math.isnan(val.iloc[0]):
+            df3 = df2[df2['person_id'] == i]
+            df3 = df3.reset_index()
+            temp = [df3.loc[df3.shape[0] - 1, 'days_from_first_event']] * df3.shape[0]
+            df3['event_time'] = temp
+            dfNoLongCovid = pd.concat([dfNoLongCovid, df3], ignore_index=True)
+        else:
+            df3 = df2[df2['person_id'] == i]
+            df3 = df3.reset_index()
+            temp_lc = long_COVID_Silver_Standard[long_COVID_Silver_Standard['person_id'] == i]['time_to_pasc'].values[0]
+            temp_lc = long_COVID_Silver_Standard[long_COVID_Silver_Standard['person_id'] == i][
+                          'COVID Index'] + pd.to_timedelta(temp_lc, unit='D')
+            temp_lc = temp_lc.tolist()
+            temp = temp_lc[0] - df3.loc[0, 'date']
+            temp = [temp.days] * df3.shape[0]
+            df3['event_time'] = temp
+            dfLongCovid = pd.concat([dfLongCovid, df3], ignore_index=True)
+
+    dfLongCovid = dfLongCovid.drop('index', axis=1)  # Remove a created index column
+    dfNoLongCovid = dfNoLongCovid.drop('index', axis=1)  # Remove a created index column
+
+    # Identify unique values of features
+    featureValues = []
+    for i in range(len(Features)):
+        temp = list(pd.unique(dfLongCovid[Features[i]]))
+        temp = [x for x in temp if str(x) != 'nan']
+        temp1 = list(pd.unique(dfNoLongCovid[Features[i]]))
+        temp1 = [x for x in temp1 if str(x) != 'nan']
+        temp2 = temp + temp1
+        temp3 = [*set(temp2)]
+        featureValues.append(temp3)
+
+    # Write out updated population (block group) information
+    dfLongCovid.to_csv('merged_data_LongCovid.csv', index=False)
+    dfNoLongCovid.to_csv('merged_data_NoLongCovid.csv', index=False)
 
 
 
