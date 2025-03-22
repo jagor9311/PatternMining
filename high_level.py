@@ -27,15 +27,21 @@ Features = ['condition_concept_name','drug_concept_name','device_concept_name']
 ###########################################################
 
 
-
-
-
 ## Read in data
 
 dfLongCovid = pd.read_csv(r'C:\Users\Joe\PycharmProjects\PatternMining\merged_data_LongCovid.csv')
 dfNoLongCovid = pd.read_csv(r'C:\Users\Joe\PycharmProjects\PatternMining\merged_data_NoLongCovid.csv')
 
-
+# Identify unique values of features
+featureValues = []
+for i in range(len(Features)):
+    temp = list(pd.unique(dfLongCovid[Features[i]]))
+    temp = [x for x in temp if str(x) != 'nan']
+    temp1 = list(pd.unique(dfNoLongCovid[Features[i]]))
+    temp1 = [x for x in temp1 if str(x) != 'nan']
+    temp2 = temp + temp1
+    temp3 = [*set(temp2)]
+    featureValues.append(temp3)
 
 
 # Calculate Five Number Summaries for Time Differences
@@ -103,6 +109,8 @@ num_control = len(pd.unique(dfNoLongCovid['person_id']))
 ###########################################
 ######## PartB. Pattern Mining ############
 ###########################################
+
+
 # Mining patterns on the full data set
 trainBinaryMatrixSet_shock, trainBinaryMatrixSet_nonshock,\
         top_pattern_shock_ALL, top_pattern_nonshock_ALL, binaryMatrix_ALL\
